@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ClothingPro.BusinessLayer.DTO.StockDTO>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Table</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="~/css/stock.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="stock">
+        <div class="searchandheader">
+            <div class="col-3"><h3 class="text-white">@Html.ActionLink("Stock", "Index")</h3></div>
+            <div class="col-3">
+                <input style="float:inline-end;" class="form-control" id="txtSearch" placeholder="Search ...." />
+            </div>
+        </div>
+
+        <div class="stockcontent-body">
+            @foreach (var item in Model)
+            {
+                <div class="stocklists" onclick="createstock(@item.StId)">
+                    <div class="imagesection">
+                        @if (!string.IsNullOrEmpty(item.StImage))
+                        {
+                            var imagePaths = item.StImage.Split(';');
+                            var image = imagePaths[0];
+                            <img class="imagecontainedstocklist" src="@image" alt="Stock Image" />
+                        }
+                    </div>
+                    <div class="imagedetail">
+                        <h5>@item.StName</h5>
+                        <p>@item.StDes</p>
+                    </div>
+                    <div class="imagefooter">
+                        @if (!string.IsNullOrEmpty(item.StColour))
+                        {
+                            var colors = item.StColour.Split(';');
+                            var color = colors[0];
+                            <p class="stockcolor" style="background-color:@color;"></p>
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/stock.js"></script>
+<script src="~/js/search.js"></script>

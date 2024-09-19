@@ -1,0 +1,49 @@
+.stockmaindetailcontainer {
+    height: 70vh;
+    width: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 10px 10px 8px 10px #888888;
+    margin-left: 20%;
+}
+
+.stockimagecontainer{
+    height:35vh;
+    width:25vw;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content:center;
+}
+.imageList{
+    height:10vh;
+    overflow-x:scroll;
+    width:19vw;
+    display:flex;
+    margin-top:2%;
+    justify-content:space-evenly;
+}
+.imagec{
+    margin-left:2%;
+}
+.stockdetailcontainer {
+    height: 35vh;
+    width: 25vw;
+}
+.stockimagecontain {
+    height: 35vh;
+    width: 20vw;
+}
+.imagestockdetailsection{
+    margin-top:5%;
+    width:30vh;
+}
+
+.stockcolor {
+    height: 30px;
+    width: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}

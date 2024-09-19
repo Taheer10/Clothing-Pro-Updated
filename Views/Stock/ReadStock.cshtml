@@ -1,0 +1,93 @@
+﻿@model ClothingPro.BusinessLayer.DTO.StockDTO
+<style>
+    .alert {
+        padding: 4px !important;
+        margin-bottom: 10px !important;
+        margin-top: -16px !important;
+    }
+</style>
+<div class="modal-lg align-content-center">
+    <div class="modal-content">
+        <div class="modal-header">
+            <label style="font-size:medium;"><b>Stock Entry</b></label>
+            @* <span class="close" id="closeMember" data-dismiss="modal" aria-hidden="true">&times;</span> *@
+        </div>
+        <form id="CreateDesignationForm">
+            <div class="modal-body">
+                <div asp-validation-summary="All" class="alert badge-danger"></div>
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label>Stock Name</label>
+                        <input type="hidden" asp-for="StId" value="@Model.StId" class="form-control input-sm pull-right text-center" readonly style="width:60px;" />
+                        <input type="text" class="form-control required" asp-for="StName" value="@Model.StName" />
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>Stock Description</label>
+                        <textarea class="form-control required"  asp-for="StDes" value="@Model.StDes" rows="4" cols="50"></textarea>
+                    </div>
+                    <div class="form-group col-md-2">
+                        <label>Colour</label>
+                        <input type="color" class="form-control" asp-for="StColour" value="@Model.StColour" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-md-4">
+                        <label>Size</label>
+                        <input type="text" class="form-control " asp-for="StSize" value="@Model.StSize" />
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>Product Code</label>
+                        <div style="display:flex;">
+                            <input type="text" class="form-control" asp-for="StCode" value="@Model.StCode" />
+                        </div>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>Image</label>
+                        <input type="file" class="form-control" asp-for="StImage" value="@Model.StImage" />
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="form-group col-md-4">
+                        <label>IsPopular</label>
+                        <select class="form-control form-control-sm" asp-for="StIsPopular" style="width:100%;">
+                            <option value="0" selected="true">False</option>
+                            <option value="1">True</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>IsPants</label>
+                        <select class="form-control form-control-sm" asp-for="StIsPant" style="width:100%;">
+                            <option value="0" selected="true">False</option>
+                            <option value="1">True</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label>Inactive</label>
+                        <select class="form-control form-control-sm" asp-for="StInActive" style="width:100%;">
+                            <option value="0" selected="true">False</option>
+                            <option value="1">True</option>
+                        </select>
+                    </div>
+                    <div style="display:none" class="form-group col-md-4">
+                        <label>H.S.Code</label>
+                        <input type="text" class="form-control" asp-for="StHSCode" />
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="SubmitButton" value="Save" class="btn btn-primary" onclick="ValidateSave();">Save</button>
+                @* <a data-dismiss="modal" class="btn btn-default">Back</a> *@
+            </div>
+        </form>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/common.js" asp-append-version="true">
+</script><script src="~/js/stock.js"></script>
+<script>
+
+
+</script>

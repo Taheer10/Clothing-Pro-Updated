@@ -1,0 +1,1733 @@
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\appsettings.Development.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\appsettings.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.staticwebassets.runtime.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.exe
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.deps.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.runtimeconfig.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.pdb
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Azure.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Azure.Identity.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Humanizer.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Mapster.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Mapster.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.UI.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Build.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Build.Framework.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Features.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Data.Sqlite.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.NET.StringTools.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.SqlServer.Server.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Mono.TextTemplating.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Common.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Configuration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.DependencyResolver.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Frameworks.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.LibraryModel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Packaging.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.ProjectModel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Protocol.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Versioning.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\SQLitePCLRaw.core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.CodeDom.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.AttributedModel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.Convention.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.Hosting.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.Runtime.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.TypedParts.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Drawing.Common.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Memory.Data.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.MetadataLoadContext.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Caching.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Permissions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Windows.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\af\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ar\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\az\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\bg\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\bn-BD\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\da\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\el\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fa\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fi-FI\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr-BE\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\he\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\hr\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\hu\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\hy\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\id\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\is\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko-KR\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ku\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\lv\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ms-MY\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\mt\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\nb\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\nb-NO\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\nl\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ro\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\sk\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\sl\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\sr\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\sr-Latn\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\sv\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\th-TH\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\uk\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\vi\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-CN\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Humanizer.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\e_sqlite3.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.AppContext.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Buffers.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Configuration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Console.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Data.Common.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Data.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Drawing.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Globalization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Memory.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Http.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Security.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Net.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Numerics.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Transactions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Web.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Windows.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\WindowsBase.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\mscorlib.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\netstandard.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Features.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Http.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.JSInterop.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.RateLimiting.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\clretwrc.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\clrgc.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\clrjit.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\coreclr.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\createdump.exe
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\hostfxr.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\hostpolicy.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\mscordaccore.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.724.31311.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\mscordbi.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\mscorrc.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\msquic.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\bin\Release\net8.0\win-x64\aspnetcorev2_inprocess.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.csproj.AssemblyReference.cache
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.AssemblyInfoInputs.cache
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.AssemblyInfo.cs
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.csproj.CoreCompileInputs.cache
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.RazorAssemblyInfo.cache
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.RazorAssemblyInfo.cs
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.sourcelink.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets.build.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets.development.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.ClothingPro.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.build.ClothingPro.props
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.ClothingPro.props
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.ClothingPro.props
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets.pack.json
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\scopedcss\bundle\ClothingPro.styles.css
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\scopedcss\projectbundle\ClothingPro.bundle.scp.css
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\Clothing.8BF5EDE2.Up2Date
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\refint\ClothingPro.dll
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.pdb
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.genruntimeconfig.cache
+D:\Projects\re clothing\ClothingPro\ClothingPro\obj\Release\net8.0\win-x64\ref\ClothingPro.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\appsettings.Development.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\appsettings.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.staticwebassets.runtime.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.exe
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.deps.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.runtimeconfig.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ClothingPro.pdb
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Azure.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Azure.Identity.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Humanizer.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Mapster.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Mapster.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Build.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Build.Framework.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Features.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.NET.StringTools.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.SqlServer.Server.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Mono.TextTemplating.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Common.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Configuration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.DependencyResolver.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Frameworks.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.LibraryModel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Packaging.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.ProjectModel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Protocol.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\NuGet.Versioning.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.CodeDom.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.AttributedModel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.Convention.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.Hosting.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.Runtime.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Composition.TypedParts.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Drawing.Common.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Memory.Data.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.MetadataLoadContext.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Caching.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Permissions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Windows.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\af\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ar\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\az\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\bg\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\bn-BD\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\da\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\el\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fa\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fi-FI\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr-BE\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\he\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\hr\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\hu\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\hy\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\id\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\is\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko-KR\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ku\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\lv\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ms-MY\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\mt\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\nb\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\nb-NO\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\nl\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ro\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\sk\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\sl\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\sr\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\sr-Latn\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\sv\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\th-TH\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\uk\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\vi\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-CN\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Humanizer.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\e_sqlite3.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.AppContext.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Buffers.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Collections.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Configuration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Console.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Data.Common.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Data.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Drawing.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Globalization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Linq.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Memory.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Http.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Security.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Net.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Numerics.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Reflection.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Runtime.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Text.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Transactions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Web.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Windows.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Xml.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\WindowsBase.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\mscorlib.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\netstandard.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cors.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Session.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Features.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Http.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.JSInterop.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.Net.Http.Headers.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Security.Cryptography.Xml.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.Threading.RateLimiting.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\clretwrc.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\clrgc.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\clrjit.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\coreclr.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\createdump.exe
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\hostfxr.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\hostpolicy.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\mscordaccore.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.724.31311.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\mscordbi.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\mscorrc.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\msquic.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\bin\Release\net8.0\win-x64\aspnetcorev2_inprocess.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.csproj.AssemblyReference.cache
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.AssemblyInfoInputs.cache
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.AssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.csproj.CoreCompileInputs.cache
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.RazorAssemblyInfo.cache
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.RazorAssemblyInfo.cs
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.sourcelink.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets.build.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets.development.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.ClothingPro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.build.ClothingPro.props
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.ClothingPro.props
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.ClothingPro.props
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\staticwebassets.pack.json
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\scopedcss\bundle\ClothingPro.styles.css
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\scopedcss\projectbundle\ClothingPro.bundle.scp.css
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\Clothing.8BF5EDE2.Up2Date
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\refint\ClothingPro.dll
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.pdb
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ClothingPro.genruntimeconfig.cache
+C:\Users\abhis\OneDrive\Desktop\clothing-proj\ClothingPro\obj\Release\net8.0\win-x64\ref\ClothingPro.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\appsettings.Development.json
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\appsettings.json
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ClothingPro.staticwebassets.runtime.json
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ClothingPro.exe
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ClothingPro.deps.json
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ClothingPro.runtimeconfig.json
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ClothingPro.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ClothingPro.pdb
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Azure.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Azure.Identity.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Humanizer.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Mapster.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Mapster.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.UI.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Build.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Build.Framework.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Elfie.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Features.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Scripting.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Data.Sqlite.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.NET.StringTools.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.SqlServer.Server.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\dotnet-aspnet-codegenerator-design.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Mono.TextTemplating.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.Common.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.Configuration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.DependencyResolver.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.Frameworks.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.LibraryModel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.Packaging.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.ProjectModel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.Protocol.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\NuGet.Versioning.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\SQLitePCLRaw.core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.CodeDom.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Composition.AttributedModel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Composition.Convention.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Composition.Hosting.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Composition.Runtime.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Composition.TypedParts.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Drawing.Common.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Memory.Data.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.MetadataLoadContext.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Caching.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Permissions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Windows.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\af\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ar\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\az\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\bg\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\bn-BD\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\da\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\el\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fa\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fi-FI\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr-BE\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\he\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\hr\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\hu\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\hy\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\id\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\is\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko-KR\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ku\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\lv\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ms-MY\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\mt\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\nb\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\nb-NO\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\nl\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ro\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\sk\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\sl\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\sr\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\sr-Latn\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\sv\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\th-TH\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\uk\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\uz-Latn-UZ\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\vi\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-CN\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Humanizer.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\e_sqlite3.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.CSharp.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.VisualBasic.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Win32.Registry.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.AppContext.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Buffers.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Collections.Concurrent.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Collections.Immutable.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Collections.NonGeneric.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Collections.Specialized.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Collections.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ComponentModel.Annotations.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ComponentModel.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ComponentModel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Configuration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Console.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Data.Common.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Data.DataSetExtensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Data.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.Contracts.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.Debug.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.Process.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.Tools.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.Tracing.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Drawing.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Drawing.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Dynamic.Runtime.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Formats.Tar.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Globalization.Calendars.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Globalization.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Globalization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Compression.Brotli.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Compression.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.FileSystem.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.IsolatedStorage.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Pipes.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Linq.Expressions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Linq.Parallel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Linq.Queryable.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Linq.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Memory.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Http.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Http.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.HttpListener.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Mail.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.NameResolution.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.NetworkInformation.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Ping.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Quic.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Requests.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Security.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.ServicePoint.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.Sockets.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.WebClient.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.WebProxy.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.WebSockets.Client.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.WebSockets.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Net.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Numerics.Vectors.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Numerics.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ObjectModel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Private.CoreLib.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Private.DataContractSerialization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Private.Uri.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Private.Xml.Linq.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Private.Xml.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.Emit.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.Metadata.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Reflection.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Resources.Reader.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Resources.ResourceManager.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Resources.Writer.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Handles.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.InteropServices.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Intrinsics.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Loader.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Numerics.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.Serialization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Runtime.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.AccessControl.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Claims.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Principal.Windows.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Principal.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.SecureString.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ServiceModel.Web.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ServiceProcess.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Text.Encoding.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Text.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Text.RegularExpressions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Channels.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Overlapped.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Tasks.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Thread.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.ThreadPool.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.Timer.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Transactions.Local.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Transactions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.ValueTuple.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Web.HttpUtility.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Web.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Windows.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.Linq.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.ReaderWriter.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.Serialization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.XDocument.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.XPath.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.XmlDocument.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.XmlSerializer.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Xml.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\WindowsBase.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\mscorlib.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\netstandard.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Features.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Http.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.JSInterop.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Diagnostics.EventLog.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.Threading.RateLimiting.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\System.IO.Compression.Native.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\clretwrc.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\clrgc.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\clrjit.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\coreclr.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\createdump.exe
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\hostfxr.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\hostpolicy.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\mscordaccore.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\mscordaccore_amd64_amd64_8.0.724.31311.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\mscordbi.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\mscorrc.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\msquic.dll
+D:\abhi\final\clothin-pro-master\bin\Release\net8.0\win-x64\aspnetcorev2_inprocess.dll
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.csproj.AssemblyReference.cache
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.AssemblyInfoInputs.cache
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.AssemblyInfo.cs
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.csproj.CoreCompileInputs.cache
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.MvcApplicationPartsAssemblyInfo.cs
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.MvcApplicationPartsAssemblyInfo.cache
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.RazorAssemblyInfo.cache
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.RazorAssemblyInfo.cs
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets.build.json
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets.development.json
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets\msbuild.ClothingPro.Microsoft.AspNetCore.StaticWebAssets.props
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets\msbuild.build.ClothingPro.props
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.ClothingPro.props
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.ClothingPro.props
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\staticwebassets.pack.json
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\scopedcss\bundle\ClothingPro.styles.css
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\scopedcss\projectbundle\ClothingPro.bundle.scp.css
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\Clothing.8BF5EDE2.Up2Date
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.dll
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\refint\ClothingPro.dll
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.pdb
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ClothingPro.genruntimeconfig.cache
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\win-x64\ref\ClothingPro.dll

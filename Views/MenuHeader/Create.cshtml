@@ -1,0 +1,53 @@
+﻿@model ClothingPro.BusinessLayer.DTO.MenuHeaderDTO
+
+<div class="modal-dialog  modal-sm">
+    <div class="modal-content">
+        <div class="modal-header">
+            <label style="font-size:medium;"><b>MenuHeader Entry</b></label>
+            <span class="close" id="closeMember" data-dismiss="modal" aria-hidden="true">&times;</span>
+        </div>
+        <form id="CreateOutletform">
+            <div class="modal-body">
+                <div asp-validation-summary="ModelOnly" class="alert badge-danger"></div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Menu Name</label>
+                        <input type="hidden" asp-for="MenuHeaderId" value="@Model.MenuHeaderId" />
+                        <input type="text" class="form-control required" asp-for="MenuHeaderName" value="@Model.MenuHeaderName" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Sort Order</label>
+                        <input type="text" class="form-control" asp-for="StSortOrder" value="@Model.StSortOrder" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="form-group col-md-12">
+                        <label>Inactive</label>
+                        <select asp-for="MenuHeaderIsActive" class="form-control">
+                            <option value="0">NO</option>
+                            <option value="1">YES</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <div class="modal-footer">
+                    <button type="button" id="SubmitButton" value="Save" class="btn btn-primary" onclick="saveMenuHeader();">Save</button>
+                    <a data-dismiss="modal" class="btn  btn-default">Back</a>
+                </div>
+
+            }
+        </form>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/stock.js"></script>
+
+<script>
+
+</script>
+
+

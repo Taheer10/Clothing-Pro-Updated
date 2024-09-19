@@ -1,0 +1,76 @@
+﻿@model List<ClothingPro.BusinessLayer.DTO.MenuHeaderDTO>
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+</head>
+<div class="row page-heading">
+    <div class="col-md-8">
+        <ol class="breadcrumb">
+            <li>
+                <strong>
+                    @Html.ActionLink("MenuHeader", "Index")
+                </strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-md-4">
+        <div class="title-action">
+            <a class="btn btn-primary" onclick="RedirectMenuHeader()">
+                <i class="fa fa-plus"></i> Insert
+            </a>
+        </div>
+    </div>
+</div>
+
+<div id="pop-up-div" class="modal fade.in" role="dialog">
+</div>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-content">
+                    <table class="table table-striped" id="storeTypeTable">
+                        <thead>
+                            <tr>
+                                <th>MenuHeader Name</th>
+                                <th>InActive </th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.MenuHeaderName</td>
+                                    <td>
+                                        @if (item.MenuHeaderIsActive == 1)
+                                        {
+                                            <span>True</span>
+                                        }
+                                        else
+                                        {
+                                            <span>False</span>
+                                        }
+                                    </td>
+                                    <td>
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <a onclick="createMenuHeader(@item.MenuHeaderId);" title="Edit"><i class="fa fa-edit"></i></a>
+                                            <a onclick="deleteMenuHeader(@item.MenuHeaderId);" title="Delete"><i class="fa fa-trash text-success"></i></a>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/stock.js"></script>
+<script type="text/javascript">
+
+
+</script>

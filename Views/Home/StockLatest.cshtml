@@ -1,0 +1,101 @@
+﻿@model ClothingPro.BusinessLayer.DTO.StockDTO
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home </title>
+    <link href="~/css/carousel.css" rel="stylesheet" />
+    <style>
+        ul li a {
+            text-decoration: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="row">
+        <div class="row bg-warning" style="display:flex;flex-direction:row;align-items:center;justify-content:flex-end;display:none">
+            <div class="row col-3">
+                <span>From Date</span>
+                <input type="date" class="form-control" style="width:150px" id="fromdate" />
+            </div>
+            <div class="row col-3" style="margin-right:10%">
+                <span>To Date</span>
+                <input type="date" class="form-control" style="width:150px" id="todate" />
+
+            </div>
+            <div class="row col-1" style="margin-right:15%">
+                <button class="btn btn-primary" onclick="displayLatestItems()">Search</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-lg bg-light" style="height:100%;width:100vw;display:flex;align-items:center;justify-content:space-around; flex-wrap:wrap">
+        <div class="carousel-container" style="height:100%;width: 100%;position: relative;  overflow: hidden;">
+           
+
+            <div class="carousel-container" style="height:100%; position: relative; width: 100%;">
+                <div class="row" style="display:flex;flex-direction:row;align-items:center;justify-content:space-between">
+                    <div class="row col-2">
+                        <h3>Latest Items</h3>
+                    </div>
+                   @*  <div class="row col-2">
+                        <a onclick="displayLatestItems()" class="btn btn-primary rounded">ViewMore</a>
+                    </div> *@
+                </div>
+                <div class="carousel-wrapper-pants" style="height:100%;width: 100%;display: flex;align-items:center;justify-content:space-evenly;flex-wrap:wrap; transition: transform 0.5s ease;">
+                    @foreach (var item in Model.stockLatestList)
+                    {
+                        <div onclick="createstock(@item.StId)" class="card mt-2 mr-2 bg-info" style="display:flex;flex-direction:column;align-items:center;justify-content:center;height: 25vh;width: 25vh; margin-right: 15px;">
+                            @if (!string.IsNullOrEmpty(item.StImage))
+                            {
+                               @*  var imagePaths = item.StImage.Split(';');
+                                foreach (var path in imagePaths)
+                                {
+                                    <div class="row" style="height: 15vh;width: 25vh;display:flex; flex-direction:row;flex-wrap:wrap;overflow-x:hidden">
+                                        <img src="@path" alt="Stock Image" style="margin-left:2px;margin-bottom:2px; margin-right: 2px;" />
+
+                                    </div>
+                                } *@
+                                @if (!string.IsNullOrEmpty(item.StImage))
+                                {
+                                    var imagePaths = item.StImage.Split(';');
+                                    var image = imagePaths[0];
+                                    <div class="row" style="height: 15vh;width: 25vh;display:flex; flex-direction:row;flex-wrap:wrap;overflow-x:hidden">
+                                        <img src="@image" alt="Stock Image" style="margin-left:2px;margin-bottom:2px; margin-right: 2px;" />
+
+                                    </div>
+                                }
+                            }
+                            <div class="card-body" style="max-height: 10vh; max-width: 18vh;">
+                                <h5 class="card-header" style="font-size:12px">@item.StName</h5>
+                                <p class="card-text">@item.StDes</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+               @*  <button class="carousel-prev" onclick="nextPantsSlide()" style="display:none; position: absolute; left: 0; top: 50%; transform: translateY(-50%);">❮</button>
+                <button class="carousel-next" onclick="prevPantsSlide()" style="display:none;position: absolute; right: 0; top: 50%; transform: translateY(-50%);">❯</button> *@
+            </div>
+
+        </div>
+
+     
+
+
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/stock.js"></script>
+<script src="~/js/carousel.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#fromdate").val("@ViewBag.FromDate");
+        $("#todate").val("@ViewBag.ToDate");
+        $("#fromdate").attr("min", "@ViewBag.FromDate");
+        // $("#fromdate").attr("max", "@ViewBag.ToDate");
+    });
+  
+</script>
