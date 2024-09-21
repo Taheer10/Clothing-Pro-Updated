@@ -1,0 +1,42 @@
+﻿@model ClothingPro.BusinessLayer.DTO.BannerDTO
+
+<div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title"><b>Banner Entry</b></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form id="bannerForm" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="BannerImg" class="form-label">Banner Image</label>
+                    <input type="hidden" asp-for="BannerId" />
+                    <input class="form-control" type="file" name="BannerImg" asp-for="BannerImg" accept="image/*" />
+                </div>
+                <div class="mb-3">
+                    <label for="BannerIsActive" class="form-label">Is Active</label>
+                    <select class="form-select" asp-for="BannerIsActive">
+                        <option value="0">False</option>
+                        <option value="1">True</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="BannerSortOrder" class="form-label">Sort Order</label>
+                    <input class="form-control" type="number" asp-for="BannerSortOrder" />
+                </div>
+                @if (!string.IsNullOrEmpty(Model.BannerImg))
+                {
+                    <div class="mb-3">
+                        <img src="@Model.BannerImg" class="img-fluid rounded" alt="Banner Image Preview" />
+                    </div>
+                }
+                <button type="button" id="bannersavebtn" class="btn btn-primary w-100" onclick="SaveBanner();">
+                    <i class="fas fa-save"></i> Save
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/stock.js"></script>

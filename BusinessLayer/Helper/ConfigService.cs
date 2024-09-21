@@ -11,6 +11,8 @@ public class ConfigService
         services.AddSingleton<IStockService,StockService>();
         services.AddSingleton<IMenuHeaderService,MenuHeaderService>();
         services.AddSingleton<ICompanyService,CompanyService>();
+        services.AddSingleton<IBannerService,BannerService>();
+        services.AddSingleton<IColorImagesService,ColorImagesService>();
 
 
     }

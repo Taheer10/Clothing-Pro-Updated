@@ -21,6 +21,11 @@ public class UnitOfWork : IDisposable
     private IRepository<Setting> _settingRepository;
     private IRepository<MenuHeader> _menuHeaderRepository;
     private IRepository<Company> _companyRepository;
+    private IRepository<Banner> _bannerRepository;
+    private IRepository<ColorImages> _colorImagesRepository;
+
+
+
 
 
 
@@ -53,6 +58,22 @@ public class UnitOfWork : IDisposable
         get
         {
             return _companyRepository = _companyRepository ?? new GenericRepository<Company>(_dbContext);
+        }
+    }
+
+    public IRepository<Banner> BannerRepository
+    {
+        get
+        {
+            return _bannerRepository = _bannerRepository ?? new GenericRepository<Banner>(_dbContext);
+        }
+    }
+
+    public IRepository<ColorImages> ColorImagesRepository
+    {
+        get
+        {
+            return _colorImagesRepository = _colorImagesRepository ?? new GenericRepository<ColorImages>(_dbContext);
         }
     }
 

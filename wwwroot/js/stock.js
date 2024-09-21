@@ -163,7 +163,7 @@ function ValidateSave() {
         StSortOrder: $("#StSortOrder").val(),
         StMenuHeaderId: $("#StMenuHeaderId").val()
     };
-    debugger
+    
 
     var formData = new FormData();
     // Append model data as a JSON string
@@ -200,6 +200,50 @@ function ValidateSave() {
         }
     });
 }
+
+
+
+
+//function SaveBanner() {
+//    $("#bannersavebtn").hide();
+//    var bannerInfo = {
+//        BannerId: $("#BannerId").val(),
+//        BannerImg: $("#BannerImg").val(),
+//        BannerIsActive: $("#BannerIsActive").val(),
+//        StSortOrder: $("#StSortOrder").val(),
+
+//    };
+
+
+//    var formData = new FormData();
+//    formData.append("model", JSON.stringify(bannerInfo));
+
+
+//    $.ajax({
+//        type: "POST",
+//        url: getUrlPath() + "Banner/CreatePost",
+//        data: formData,
+//        contentType: false,
+//        processData: false,
+//        success: function (result) {
+//            if (result === "success") {
+//                alert('Data Saved Successfully');
+//                //window.location.reload();
+//                window.location.href = getUrlPath() + "Stock/Index";
+//            } else {
+//                // Handle the error
+//                alert("Error: " + result);
+//            }
+//        },
+//        error: function (result) {
+//            alert(result.responseText);
+//            //alert("Cannot Save Data. Please try again.");
+//        }
+//    });
+//}
+
+
+
 
 //function displayLatestItems() {
 //    var fromdate = $("#fromdate").val();
@@ -305,6 +349,57 @@ function displayLatestItems() {
     window.location.href = getUrlPath() + "Home/StockLatetsItems";
 }
 
+function RedirectBanner() {
+    window.location.href = getUrlPath() + "Banner/Create";
+}
+
+function SaveBanner() {
+    $("#bannersavebtn").hide();
+    var bannerInfo = {
+        BannerId: $("#BannerId").val(),
+        BannerIsActive: $("#BannerIsActive").val(),
+        BannerSortOrder: $("#BannerSortOrder").val(),
+
+    };
+
+    // Create a new FormData object
+    var formData = new FormData();
+
+    // formData.append("BannerId", $("#BannerId").val());
+    // formData.append("BannerIsActive", $("#BannerIsActive").val());
+    // formData.append("StSortOrder", $("#StSortOrder").val());
+    debugger;
+
+    var fileInput = document.getElementById("BannerImg");
+    if (fileInput.files.length > 0) {
+        formData.append("BannerImg", fileInput.files[0]);
+    }
+
+    formData.append("model", JSON.stringify(bannerInfo));
+
+    $.ajax({
+        type: "POST",
+        url: getUrlPath() + "Banner/CreatePost",
+        data: formData,
+        contentType: false,
+        processData: false,
+        success: function (result) {
+            if (result.success) {
+                window.location.href = getUrlPath() + "Banner/Index";
+                alert(result.message);
+
+            } else {
+                alert("Error: " + result.responseText);
+            }
+        },
+        error: function (result) {
+            debugger
+            // alert("Cannot Save Data. Please try again.");
+            alert("Error: " + result.responseText);
+        }
+    });
+}
+
 function saveMenuHeader() {
     $("#SubmitButton").hide();
     var menuInfo = {
@@ -361,6 +456,36 @@ function saveCompanyDetail() {
     });
 }
 
+function deleteBanner(bnId) {
+    if (bnId === 0 || bnId === null) {
+        alert("Please select Item to Delete");
+        return; // Exit function if no valid stId
+    }
+
+    var userConfirmed = confirm('Are you sure you want to delete?');
+    if (!userConfirmed) {
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: getUrlPath() + "Banner/Delete",
+        data: { bnId: bnId }, 
+        success: function (result) {
+            if (result == true) {
+                alert('Data Deleted Successfully');
+            } else {
+                window.location.reload();
+                alert('Data Deleted Successfully');
+
+            }
+        },
+        error: function (result) {
+            alert("Cannot Delete Data. Please try again.");
+        }
+    });
+}
+
 function RedirectStockCreate() {
     window.location.href = getUrlPath() + "Stock/Create-Stock";
 
@@ -369,6 +494,10 @@ function RedirectStockCreate() {
 function createMenuHeader(id) {
     window.location.href = getUrlPath() + "MenuHeader/Create?mnId=" + id;
 }
+function createBanner(bnId) {
+    window.location.href = getUrlPath() + "Banner/Create?bnId=" + bnId;
+}
+
 function getStockMenuList(id) {
     window.location.href = getUrlPath() + "MenuHeader/GetStockMenuDetail?mnId=" + id;
 }

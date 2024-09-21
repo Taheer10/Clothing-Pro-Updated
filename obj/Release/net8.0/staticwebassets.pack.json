@@ -5,6 +5,34 @@
       "PackagePath": "staticwebassets\\ClothingPro.bundle.scp.css"
     },
     {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\WIN_20240625_07_36_05_Pro.jpg",
+      "PackagePath": "staticwebassets\\banners\\WIN_20240625_07_36_05_Pro.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\WIN_20240625_07_36_38_Pro.jpg",
+      "PackagePath": "staticwebassets\\banners\\WIN_20240625_07_36_38_Pro.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\WIN_20240816_16_43_41_Pro.jpg",
+      "PackagePath": "staticwebassets\\banners\\WIN_20240816_16_43_41_Pro.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\attachment.png",
+      "PackagePath": "staticwebassets\\banners\\attachment.png"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\attachment2.png",
+      "PackagePath": "staticwebassets\\banners\\attachment2.png"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\pant.jpg",
+      "PackagePath": "staticwebassets\\banners\\pant.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\shirt.jpg",
+      "PackagePath": "staticwebassets\\banners\\shirt.jpg"
+    },
+    {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\css\\carousel.css",
       "PackagePath": "staticwebassets\\css\\carousel.css"
     },
@@ -37,6 +65,14 @@
       "PackagePath": "staticwebassets\\images\\attachment2.png"
     },
     {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\banners\\pant.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\pant.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\banners\\shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\shirt.jpg"
+    },
+    {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\img.webp",
       "PackagePath": "staticwebassets\\images\\img.webp"
     },
@@ -51,6 +87,10 @@
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\shirt.jpg",
       "PackagePath": "staticwebassets\\images\\shirt.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\js\\Banner.js",
+      "PackagePath": "staticwebassets\\js\\Banner.js"
     },
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\js\\carousel.js",

@@ -851,6 +851,7 @@ D:\abhi\final\clothin-pro-master\obj\Release\net8.0\ClothingPro.MvcApplicationPa
 D:\abhi\final\clothin-pro-master\obj\Release\net8.0\ClothingPro.MvcApplicationPartsAssemblyInfo.cache
 D:\abhi\final\clothin-pro-master\obj\Release\net8.0\ClothingPro.RazorAssemblyInfo.cache
 D:\abhi\final\clothin-pro-master\obj\Release\net8.0\ClothingPro.RazorAssemblyInfo.cs
+D:\abhi\final\clothin-pro-master\obj\Release\net8.0\ClothingPro.sourcelink.json
 D:\abhi\final\clothin-pro-master\obj\Release\net8.0\staticwebassets.build.json
 D:\abhi\final\clothin-pro-master\obj\Release\net8.0\staticwebassets.development.json
 D:\abhi\final\clothin-pro-master\obj\Release\net8.0\staticwebassets\msbuild.ClothingPro.Microsoft.AspNetCore.StaticWebAssets.props

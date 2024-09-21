@@ -1,0 +1,94 @@
+﻿@model List<ClothingPro.BusinessLayer.DTO.ColorImagesDTO>
+
+<head>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
+<div class="container-fluid">
+    <!-- Page Heading -->
+    <div class="row page-heading">
+        <div class="col-md-8">
+            <ol class="breadcrumb">
+                <li>
+                    <strong>
+                        @Html.ActionLink("ColorImages", "Index")
+                    </strong>
+                </li>
+            </ol>
+        </div>
+        <div class="col-md-4 text-right">
+            <div class="title-action">
+                <a class="btn btn-primary" onclick="RedirectColorImages()">
+                    <i class="fa fa-plus"></i> Insert
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup Div -->
+    <div id="pop-up-div" class="modal fade" role="dialog">
+        <!-- Modal content will go here -->
+    </div>
+
+    <!-- ColorImages List Table -->
+    <div class="wrapper wrapper-content animated fadeInRight">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-striped" id="storeTypeTable">
+                                <thead>
+                                    <tr>
+                                        <th>ColorImages img</th>
+                                        <th>InActive</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td style="width: 150px; height: 100px;">
+                                                <img src="@item.ColorImagesName" class="img-fluid" alt="@item.ColorImagesName">
+                                            </td>
+                                            <td>
+                                                @item.ColorImagesName
+                                            </td>
+                                            <td>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <a onclick="createColorImages(@item.ColorImagesId);" class="btn btn-sm btn-warning" title="Edit">
+                                                        <i class="fa fa-edit"></i> Edit
+                                                    </a>
+                                                    <a onclick="deleteColorImages(@item.ColorImagesId);" class="btn btn-sm btn-danger" title="Delete">
+                                                        <i class="fa fa-trash"></i> Delete
+                                                    </a>
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                    @* @endforeach *@
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/stock.js"></script>
+
+<script type="text/javascript">
+    // Additional JavaScript if needed
+</script>

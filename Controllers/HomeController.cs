@@ -12,12 +12,14 @@ namespace ClothingPro.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IStockService _stockService;
         private readonly IMenuHeaderService _menuHeaderService;
+        private readonly IBannerService _bannerService;
 
-        public HomeController(ILogger<HomeController> logger, IStockService stockService, IMenuHeaderService menuHeaderService)
+        public HomeController(ILogger<HomeController> logger, IStockService stockService, IMenuHeaderService menuHeaderService, IBannerService bannerService)
         {
             _logger = logger;
             _stockService = stockService;
             _menuHeaderService = menuHeaderService;
+            _bannerService = bannerService;
         }
 
         public IActionResult Index(string FromDate="",string Todate="")
@@ -32,6 +34,7 @@ namespace ClothingPro.Controllers
             var latest = _stockService.GetLatestDetail(FromDate, Todate);
             stocklist.stockLatestList = latest;
             stocklist.MenuHeaderLists = menuheaderList;
+            stocklist.BannerList = _bannerService.GetAllBanner();
             return View(stocklist);
         }
 

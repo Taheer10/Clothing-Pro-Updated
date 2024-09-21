@@ -287,6 +287,29 @@
                 <h1 id="stockname">@Model.StName</h1>
                 <p id="stockcode" class="price">@Model.StCode</p>
                 <p id="stockdes">@Model.StDes</p>
+                <p>
+                    @if (!string.IsNullOrEmpty(Model.StColour))
+                    {
+                        <div class="d-flex align-items-center">
+                            <span>Available colors:</span>
+                            <div class="d-flex" style="margin-left:10px;">
+                                @{
+                                    var colors = Model.StColour.Split(';');
+                                    foreach (var color in colors)
+                                    {
+                                        <div style="background-color:@color; height:20px; width:20px; margin-right:5px;"></div>
+                                    }
+                                }
+                            </div>
+                        </div>
+                    }
+                </p>
+                <p>
+                    @if (!string.IsNullOrEmpty(Model.StSize))
+                    {
+                        <span>Available sizes: @Model.StSize</span>
+                    }
+                </p>
                 @*  <p>We take a minimum of 10 pieces for order.</p> *@
 
                 @*   <p class="mt-3 mb-1"><strong>Categories:</strong> @(Model.StIsShirt == 1 ? "Shirts" : "") @(Model.StIsPant == 1 ? "Pants" : "") @(Model.StIsOther == 1 ? "Other" : "")</p>
@@ -299,7 +322,7 @@
     </div>
 
     <!-- Tabs Section -->
-    <div class="row mt-5">
+    <div class="row mt-5" style="display:none">
         <div class="col-12">
             <ul class="nav nav-tabs" id="productTabs" role="tablist">
                 <li class="nav-item">

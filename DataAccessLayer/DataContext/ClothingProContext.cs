@@ -16,6 +16,8 @@ public class ClothingProContext : DbContext
     public DbSet<Stock> Stock { get; set; }
     public DbSet<MenuHeader> MenuHeader { get; set; }
     public DbSet<Company> Company { get; set; }
+    public DbSet<Banner> Banner { get; set; }
+    public DbSet<ColorImages> ColorImages { get; set; }
 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
