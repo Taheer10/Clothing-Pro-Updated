@@ -163,7 +163,7 @@ function ValidateSave() {
         StSortOrder: $("#StSortOrder").val(),
         StMenuHeaderId: $("#StMenuHeaderId").val()
     };
-    
+
 
     var formData = new FormData();
     // Append model data as a JSON string
@@ -200,6 +200,7 @@ function ValidateSave() {
         }
     });
 }
+
 
 
 
@@ -470,7 +471,7 @@ function deleteBanner(bnId) {
     $.ajax({
         type: "POST",
         url: getUrlPath() + "Banner/Delete",
-        data: { bnId: bnId }, 
+        data: { bnId: bnId },
         success: function (result) {
             if (result == true) {
                 alert('Data Deleted Successfully');
@@ -510,6 +511,43 @@ function RedirectMenuHeader() {
     window.location.href = getUrlPath() + "MenuHeader/Create";
 }
 
+function createColorImages(id) {
+    if (id === 0 || id === null) {
+        alert("Please select ");
+        return;
+    }
+
+    window.location.href = getUrlPath() + "ColorImages/Create?ClrId=" + id;
+}
+
+//function createColorImages(id) {
+//    if (id === 0 || id === null) {
+//        alert("Please select ");
+//        return;
+//    }
+
+//    //window.location.href = getUrlPath() + "ColorImages/Create?ClrId=" + id;
+//    $.ajax({
+//        type: "GET",
+//        url: getUrlPath() + "ColorImages/Create?ClrId=" + id,
+//        success: function (model) {
+//            debugger
+//            var result = model;
+//            window.location.href = getUrlPath() + "ColorImages/CreateInfo?ClrinfoId=" + result.model.colorImagesId + "&colorImagesList=" + result.model.colorImagesList;
+
+//            ////result = JSON.parse(model);
+//            //var obj = [result.model];
+
+
+//            console.log(result);
+//        },
+//        error: function (result) {
+
+//        }
+//    });
+
+//}
+
 function deleteMenuHeader(mnId) {
     if (mnId === 0 || mnId === null) {
         alert("Please select Item to Delete");
@@ -548,5 +586,5 @@ function OpenImageDetail(imagePath) {
 }
 
 function ChangeImageDetail(imageUrl) {
-    $(".stockimagecontained").attr("src", imageUrl); 
+    $(".stockimagecontained").attr("src", imageUrl);
 }

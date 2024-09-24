@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -16,6 +17,7 @@ public interface IRepository<TEntity> where TEntity : class
     IQueryable<TEntity> GetAll();
     TEntity Add(TEntity entity);
     void AddRange(IEnumerable<TEntity> entities);
+    void UpdateRange(IEnumerable<TEntity> entities);
     void EditRange(IEnumerable<TEntity> entities);
     void Update(TEntity entity);
     void Delete(TEntity entity);
@@ -30,4 +32,8 @@ public interface IRepository<TEntity> where TEntity : class
     void ExecuteSqlRaw(string sqlquery, bool isStoreProc, params SqlParameter[] parameters);
     object ExecuteScalar(string sqlquery, bool isStoreProc, SqlParameter[] sqlParameters);
     DataSet DataSetSqlQuery(string sqlquery, bool isStoreProc, SqlParameter[] sqlParameters = null);
+    void SetEntityState(TEntity entity, EntityState state);
+
+    // New method to detach an entity
+    void Detach(TEntity entity);
 }

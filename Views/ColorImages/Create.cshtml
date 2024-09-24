@@ -1,42 +1,92 @@
-﻿@model ClothingPro.BusinessLayer.DTO.BannerDTO
+﻿@model ClothingPro.BusinessLayer.DTO.ColorImagesDTO
 
 <div class="modal-dialog modal-lg">
     <div class="modal-content">
         <div class="modal-header">
-            <h5 class="modal-title"><b>Banner Entry</b></h5>
+            <h5 class="modal-title"><b>ColorImages Entry</b></h5>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-            <form id="bannerForm" enctype="multipart/form-data">
+            <form id="ColorImagesForm" enctype="multipart/form-data">
                 <div class="mb-3">
-                    <label for="BannerImg" class="form-label">Banner Image</label>
-                    <input type="hidden" asp-for="BannerId" />
-                    <input class="form-control" type="file" name="BannerImg" asp-for="BannerImg" accept="image/*" />
-                </div>
-                <div class="mb-3">
-                    <label for="BannerIsActive" class="form-label">Is Active</label>
-                    <select class="form-select" asp-for="BannerIsActive">
-                        <option value="0">False</option>
-                        <option value="1">True</option>
+                    <input type="hidden" asp-for="ColorImagesId" />
+                    <input type="hidden" asp-for="StockId" />
+                    <label for="ColorImagesName" class="form-label">Color Name</label>
+                    <select class="form-select" asp-for="ColorImagesName">
+                        <option value="">Select</option>
+                        <option value="Red">Red</option>
+                        <option value="Green">Green</option>
+                        <option value="Blue">Blue</option>
+                        <option value="Yellow">Yellow</option>
                     </select>
                 </div>
                 <div class="mb-3">
-                    <label for="BannerSortOrder" class="form-label">Sort Order</label>
-                    <input class="form-control" type="number" asp-for="BannerSortOrder" />
+                    <label for="ColorImagesImg" class="form-label">Color Image</label>
+                    <input class="form-control" type="file" name="ColorImagesImg" asp-for="ColorImagesImg" accept="image/*" />
                 </div>
-                @if (!string.IsNullOrEmpty(Model.BannerImg))
-                {
-                    <div class="mb-3">
-                        <img src="@Model.BannerImg" class="img-fluid rounded" alt="Banner Image Preview" />
-                    </div>
-                }
-                <button type="button" id="bannersavebtn" class="btn btn-primary w-100" onclick="SaveBanner();">
-                    <i class="fas fa-save"></i> Save
+                <div>
+                    <select class="form-select" asp-for="colorImagesListId" asp-items="@ViewBag.ColorImagesList"></select>
+                </div>
+                @* <div class="mb-3">
+                <label for="ColorImagesIsActive" class="form-label">Is Active</label>
+                <select class="form-select" asp-for="StMenuHeaderId" asp-items="@ViewBag.MenuHeaderList"></select>
+                </div> *@
+
+                <button type="button" id="ColorImagessavebtn" class="btn btn-primary w-100" onclick="AddImage();">
+                    <i class="fas fa-save"></i> Add
                 </button>
             </form>
+        </div>
+        <div>
+            <table id="tblColorImages" class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">Index</th>
+                        <th scope="col">ColorName</th>
+                        <th scope="col">ColorImage</th>
+                        <th scope="col">ImageName</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <div>
+            <button type="button" id="savecolorimgList" class="btn btn-primary w-100" onclick="SaveImage();">
+                <i class="fas fa-save"></i> Save
+            </button>
         </div>
     </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="~/js/stock.js"></script>
+<script src="~/js/ColorImages.js"></script>
+<script>
+    $(document).ready(function () {
+        debugger
+        // var List = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.ColorImagesList));
+        var List = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.colorImagesList));
+        if (List != null) {
+            $.each(List, function (index, item) {
+                var row = `<tr id=${item.ColorImagesId}>` +
+                    '<td>' + (index + 1) + '</td>' +
+                    '<td>' + item.ColorName + '</td>' +
+                    '<td><img src="' + item.ColorImagesImg + '" alt="Color Image" width="50" height="50"/></td>' +
+                    '<td>' + item.ColorImagesImg.split('/').pop() + '</td>' +  // Extracts the image name from the path
+                    '<td><button class="btn btn-primary" onclick="editImage(' + item.ColorImagesId + ')">Edit</button>' +
+                    ' <button class="btn btn-danger" onclick="deleteImage(' + item.ColorImagesId + ')">Delete</button></td>' +
+                    '<td class="clrimgids" style="display:none">' + item.ColorImagesId + '</td>' +
+                    '</tr>';
+
+                // Append the constructed row to the table body
+                $('#tblColorImages tbody').append(row);
+            });
+            console.log(List);
+        }
+
+    });
+
+
+</script>

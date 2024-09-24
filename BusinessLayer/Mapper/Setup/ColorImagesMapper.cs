@@ -16,6 +16,7 @@ namespace ClothingPro.BusinessLayer.Mapper
                 ColorImagesName = x.ColorImagesName,
                 StockId = x.StockId,
                 ColorImagesImg = x.ColorImagesImg,
+                ColorName = x.ColorName,
             }).ToList();
 
             return ColorImagesDTOList;
@@ -30,6 +31,8 @@ namespace ClothingPro.BusinessLayer.Mapper
                 ColorImagesName = x.ColorImagesName,
                 StockId = x.StockId,
                 ColorImagesImg = x.ColorImagesImg,
+                ColorName = x.ColorImagesName,
+
             };          
         }
 
@@ -42,6 +45,8 @@ namespace ClothingPro.BusinessLayer.Mapper
                 ColorImagesName = x.ColorImagesName,
                 StockId = x.StockId,
                 ColorImagesImg = x.ColorImagesImg,
+                ColorName = x.ColorImagesName,
+
             };
         }
     }

@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\banners\\shirt.jpg"
     },
     {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\pant.jpg",
+      "PackagePath": "staticwebassets\\colorimages\\pant.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\shirt.jpg",
+      "PackagePath": "staticwebassets\\colorimages\\shirt.jpg"
+    },
+    {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\css\\carousel.css",
       "PackagePath": "staticwebassets\\css\\carousel.css"
     },
@@ -91,6 +99,10 @@
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\js\\Banner.js",
       "PackagePath": "staticwebassets\\js\\Banner.js"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\js\\ColorImages.js",
+      "PackagePath": "staticwebassets\\js\\ColorImages.js"
     },
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\js\\carousel.js",

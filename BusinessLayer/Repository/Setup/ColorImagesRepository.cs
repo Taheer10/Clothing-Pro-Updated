@@ -28,6 +28,20 @@ namespace ClothingPro.BusinessLayer.Repository
             }
         }
 
+        public List<ColorImages> ColorImagesListBYStockId(int stockId)
+        {
+            try
+            {
+
+                var result = _unitOfWork.ColorImagesRepository.GetAll().Where(x=> x.StockId == stockId).ToList();
+                return result;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public ColorImages GetColorImagesById(string ColorImagesName)
         {
             try
@@ -60,6 +74,32 @@ namespace ClothingPro.BusinessLayer.Repository
             }
         }
 
+        public List<ColorImages> AddColorImagesRange(List<ColorImages> model)
+        {
+            try
+            {
+                _unitOfWork.ColorImagesRepository.AddRange(model);
+                return model.ToList();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public List<ColorImages> UpdateColorImagesRange(List<ColorImages> model)
+        {
+            try
+            {
+                _unitOfWork.ColorImagesRepository.UpdateRange(model);
+                return model.ToList();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public ColorImages GetColorImagesByIdd(int ClrId)
         {
             try
@@ -82,9 +122,9 @@ namespace ClothingPro.BusinessLayer.Repository
         {
             try
             {
-                var menuModel = _unitOfWork.ColorImagesRepository.FindBy(x => x.ColorImagesId == ClrId);
+                var colorModel = _unitOfWork.ColorImagesRepository.FindBy(x => x.ColorImagesId == ClrId);
 
-                _unitOfWork.ColorImagesRepository.Delete(menuModel);
+                _unitOfWork.ColorImagesRepository.Delete(colorModel);
                 return true;
             }
             catch (Exception ex)

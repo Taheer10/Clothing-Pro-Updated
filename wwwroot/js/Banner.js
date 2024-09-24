@@ -1,5 +1,4 @@
 ﻿function SaveBanner() {
-    alert(10)
     $("#bannersavebtn").hide();
 
     // Create a new FormData object

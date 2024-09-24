@@ -39,6 +39,23 @@ public class GenericRepository<TEntity> : IRepository<TEntity> where TEntity : c
         _dataContext.SaveChanges();
     }
 
+    public void UpdateRange(IEnumerable<TEntity> entities)
+    {
+        _dbSet.UpdateRange(entities);
+        _dataContext.SaveChanges();
+    }
+
+    public void SetEntityState(TEntity entity, EntityState state)
+    {
+        _dbSet.Entry(entity).State = state;
+    }
+
+    // Implementation for detaching entity
+    public void Detach(TEntity entity)
+    {
+        _dbSet.Entry(entity).State = EntityState.Detached;
+    }
+
     public void Update(TEntity entity)
     {
         _dbSet.Attach(entity);

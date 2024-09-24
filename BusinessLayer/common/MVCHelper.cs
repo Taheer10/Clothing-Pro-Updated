@@ -41,6 +41,38 @@ public class MVCHelper
                 break;
             #endregion
 
+            #region "STOCK"
+            case "STOCKUpdate":
+                var stockUpdateItems = _unitOfWork.StockRepository.GetAll().Where(x=> x.StInActive == 0).OrderBy(x => x.StDes).ToList();
+
+                foreach (var item in stockUpdateItems)
+                {
+                    returnListItems.Add(new SelectListItem
+                    {
+                        Text = item.StDes,
+                        Value = item.StId.ToString(),
+                        Selected = item.StId.ToString() == defaultValue
+                    });
+                }
+                break;
+            #endregion
+
+            #region "COLORIMAGES"
+            case "COLORIMAGES":
+                var colorItems = _unitOfWork.ColorImagesRepository.GetAll().Where(x => x.StockId == branchId).ToList();
+
+                foreach (var item in colorItems)
+                {
+                    returnListItems.Add(new SelectListItem
+                    {
+                        Text = item.ColorImagesName,
+                        Value = item.ColorImagesId.ToString(),
+                        Selected = item.ColorImagesId.ToString() == defaultValue
+                    });
+                }
+                break;
+#endregion
+
             #region STOCKISPOPULAR
             case "STOCKISPOPULAR":
                 var stockPopularItems = _unitOfWork.StockRepository.GetAll().OrderBy(x => x.StIsPopular == 1).ToList();
