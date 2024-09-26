@@ -49,7 +49,7 @@ public class MVCHelper
                 {
                     returnListItems.Add(new SelectListItem
                     {
-                        Text = item.StDes,
+                        Text = item.StName,
                         Value = item.StId.ToString(),
                         Selected = item.StId.ToString() == defaultValue
                     });

@@ -10,7 +10,6 @@
             <form id="ColorImagesForm" enctype="multipart/form-data">
                 <div class="mb-3">
                     <input type="hidden" asp-for="ColorImagesId" />
-                    <input type="hidden" asp-for="StockId" />
                     <label for="ColorImagesName" class="form-label">Color Name</label>
                     <select class="form-select" asp-for="ColorImagesName">
                         <option value="">Select</option>
@@ -24,13 +23,20 @@
                     <label for="ColorImagesImg" class="form-label">Color Image</label>
                     <input class="form-control" type="file" name="ColorImagesImg" asp-for="ColorImagesImg" accept="image/*" />
                 </div>
-                <div>
+                @* <div>
                     <select class="form-select" asp-for="colorImagesListId" asp-items="@ViewBag.ColorImagesList"></select>
-                </div>
-                @* <div class="mb-3">
-                <label for="ColorImagesIsActive" class="form-label">Is Active</label>
-                <select class="form-select" asp-for="StMenuHeaderId" asp-items="@ViewBag.MenuHeaderList"></select>
                 </div> *@
+                <div id="ImageEditDiv">
+                    <img src="" id="OnEditImgSrc" />
+                    <span id="TrackUpdateAddId"></span>
+                </div>
+                <div class="mb-3">
+                    <span id="TrackUpdateImgName"></span>
+                </div>
+                <div class="mb-3">
+                <label for="ColorImagesIsActive" class="form-label">Is Active</label>
+                    <select class="form-select" asp-for="StockId" asp-items="@ViewBag.StockList"></select>
+                </div>
 
                 <button type="button" id="ColorImagessavebtn" class="btn btn-primary w-100" onclick="AddImage();">
                     <i class="fas fa-save"></i> Add
@@ -86,6 +92,7 @@
             console.log(List);
         }
 
+        $("#ImageEditDiv").hide();
     });
 
 

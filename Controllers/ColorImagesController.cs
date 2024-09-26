@@ -71,12 +71,14 @@ namespace ClothingPro.Web.Controllers
                 model.colorImagesList = _ColorImagesService.GetAllColorImagesListByStockId(model.StockId);
 
                 ViewBag.ColorImagesList = (new MVCHelper()).BindDropdownList("COLORIMAGES", false, "", "", model.StockId);
+                
 
             }
             else
             {
 
             }
+            ViewBag.StockList = (new MVCHelper()).BindDropdownList("STOCKUpdate", true);
             return View("Create", model);
             //return Json(new { model = JsonConvert.SerializeObject(model) });
             //return Json(new { model });
@@ -95,6 +97,7 @@ namespace ClothingPro.Web.Controllers
                     var formfiles = Request.Form.Files;
                     List<Int32> ClrImgsIds = arrClrImgsIds;
                     List<String> ClrImgsNames = ColorNames;
+                    List<ColorImagesDTO> clrImages = ColorImagesList;
                     //var allowedExtensions = new[] { ".jpg", ".jpeg", ".png" };
                     if (formfiles.Count > 0)
                     {

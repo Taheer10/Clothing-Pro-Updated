@@ -1,17 +1,38 @@
 ﻿
-
+var trackId;
 function editImage(Clrid) {
     debugger
     let row = $(`#tblColorImages tbody tr[id='${Clrid}']`);
 
 
     let colorName = row.find('td:nth-child(2)').text();
+    let colorImage = row.find('td:nth-child(3) img').attr('src');
+    let imageName = row.find('td:nth-child(4)').text();
     // let colorImageFile = row.find('td:nth-child(3) img').attr('src');
 
     // Fill the form with the row's data
+    $('#TrackUpdateAddId').val(Clrid);
+    $('#TrackUpdateImgName').val(imageName);
+
+
+    trackId = $('#TrackUpdateAddId').val();
+    console.log(trackId);
+
     $('#ColorImagesName').val(colorName);
+    if (colorImage != "" || colorImage != null || colorImage != undefined) {
+        $("#ImageEditDiv").show();
+        $('#OnEditImgSrc').attr('src', colorImage);
+        $('#OnEditImgSrc').css({
+            'height': '100px',
+            'width': '100px',
+            'margin-left': '47%',
+            'margin-bottom': '3%'
+
+        });
+    }
     // $('#ColorImagesImg').val(colorImageFile);
-    $('#ColorImagessavebtn').text('Update').off('click').on('click', AddImage);
+    /*  $('#ColorImagessavebtn').text('Update').off('click').on('click', UpdateImage);*/
+    $('#ColorImagessavebtn').text('Update').attr('onclick', 'UpdateImage()');
 
     // Set the current row and switch to edit mode
     currentRow = row;
@@ -55,13 +76,54 @@ function deleteImage(Clrid) {
 
 
 
+function UpdateImage(index) {
+    debugger
+    var trkid = $('#TrackUpdateAddId').val();
+    var colorToUpdateName = $('#ColorImagesName').val();
+    var ImgToUpdateSrc = $("#OnEditImgSrc").attr('src');
+    var imageNameToUpdate = $('#TrackUpdateImgName').val();
+    if (index == 0 || index == undefined && trkid != 0) {
+        let CurrentRowData = $(`#tblColorImages tbody tr[id='${trackId}']`);
+        //let colorName = CurrentRowData.find('td:nth-child(2)').text();
+        //let colorImage = CurrentRowData.find('td:nth-child(3) img').attr('src');
+        //let imageName = CurrentRowData.find('td:nth-child(4)').text();
+        CurrentRowData.find('td:nth-child(2)').text(colorToUpdateName);
+        CurrentRowData.find('td:nth-child(3) img').attr('src', ImgToUpdateSrc);
+        CurrentRowData.find('td:nth-child(4)').text(imageNameToUpdate);
+        $('#ColorImagesName').val("");
+        $("#ImageEditDiv").hide();
+        $("#OnEditImgSrc").attr('src', "");
+        $('#ColorImagessavebtn').text('Add').attr('onclick', 'AddImage()');
+    }
+
+    if (index != 0 || index != "") {
+        let CurrentRowData = $(`tr[data-row-index="${index}"]`);
+        CurrentRowData.find('td:nth-child(2)').text(colorToUpdateName);
+        CurrentRowData.find('td:nth-child(3) img').attr('src', ImgToUpdateSrc);
+        CurrentRowData.find('td:nth-child(4)').text(imageNameToUpdate);
+        $('#ColorImagesName').val("");
+        $("#ImageEditDiv").hide();
+        $("#OnEditImgSrc").attr('src', "");
+        $('#ColorImagessavebtn').text('Add').attr('onclick', 'AddImage()');
+
+    }
+
+}
+
+
 $(document).ready(function () {
     let rowIndex = 1; // Counter for table index
     let isEdit = false; // Flag to determine if the form is in edit mode
     let currentRow; // Store the row that is being edited
 
     // Function to handle adding or updating image data in the table
+
+
+
     window.AddImage = function () {
+        debugger
+
+
 
         let colorName = $('#ColorImagesName').val();
         let colorImageFile = $('#ColorImagesImg')[0].files[0];
@@ -105,6 +167,13 @@ $(document).ready(function () {
             $('#ColorImagessavebtn').text('Add').off('click').on('click', AddImage);
             isEdit = false;
         } else {
+            debugger
+            var last = $('#tblColorImages tbody tr:last-child');
+            var lastRowIndex = last.find('td:nth-child(1)').text();
+
+            if (lastRowIndex != 0) {
+                rowIndex = parseInt(lastRowIndex) + parseInt(1);
+            }
             // Append a new row if it's not in edit mode
             let row = `<tr data-row-index="${rowIndex}">
                                                               <td>${rowIndex}</td>
@@ -127,17 +196,30 @@ $(document).ready(function () {
 
     // Function to handle editing a row
     window.EditRow = function (index) {
-
+        debugger
         let row = $(`tr[data-row-index="${index}"]`);
         let colorName = row.find('td:nth-child(2)').text();
-        // let colorImageFile = row.find('td:nth-child(3) img').attr('src');
-
+        let colorImageFile = row.find('td:nth-child(3) img').attr('src');
+        let imageName = row.find('td:nth-child(4)').text();
         // Fill the form with the row's data
         $('#ColorImagesName').val(colorName);
-        // $('#ColorImagesImg').val(colorImageFile);
-        $('#ColorImagessavebtn').text('Update').off('click').on('click', AddImage);
+        $("#ImageEditDiv").show();
+        $('#OnEditImgSrc').css({
+            'height': '100px',
+            'width': '100px',
+            'margin-left': '47%',
+            'margin-bottom': '3%'
 
-        // Set the current row and switch to edit mode
+        });
+        $('#OnEditImgSrc').attr('src', colorImageFile);
+        $('#TrackUpdateImgName').val(imageName);
+        var trkId = $('#TrackUpdateAddId').val();
+        $('#TrackUpdateAddId').val(trkId);
+        // $('#ColorImagesImg').val(colorImageFile);
+        //$('#ColorImagessavebtn').text('Update').off('click').on('click', AddImage);
+        $('#ColorImagessavebtn').text('Update').attr('onclick', `UpdateImage(${index})`);
+
+
         currentRow = row;
         isEdit = true;
     };
@@ -147,6 +229,9 @@ $(document).ready(function () {
 
         $(`tr[data-row-index="${index}"]`).remove();
     };
+
+
+
 });
 
 function getUrlPath() {
@@ -171,12 +256,15 @@ window.SaveImage = async function () {
 
     // Loop through each row of the table body
     $('#tblColorImages tbody tr').each(function () {
-        // debugger
+         //debugger
         let row = $(this);
         let colorName = row.find('td:nth-child(2)').text();
         let colorImageName = row.find('td:nth-child(4)').text();
         let blobUrl = row.find('td:nth-child(3) img').attr('src'); // Get the image file reference
         let clrImgIds = row.find('td:nth-child(6)').text();
+        if (clrImgIds == "") {
+            clrImgIds = 0;
+        }
 
         // This function takes a blob URL and converts it back to a Blob object
         async function blobUrlToFile(blobUrl, colorImageName) {
@@ -192,7 +280,7 @@ window.SaveImage = async function () {
 
         // Create a promise to handle the file conversion and formData append
         let promise = blobUrlToFile(blobUrl, colorImageName).then((file) => {
-            debugger
+         //   debugger
             console.log(file); // This will log the file object
             formData.append('ColorImagesList[].ColorImagesImg', file); // Append the file to formData
         });
@@ -200,7 +288,7 @@ window.SaveImage = async function () {
         formData.append('ColorImagesList[].ColorImagesName', colorName);
         formData.append('arrClrImgsIds[]', clrImgIds);
         formData.append('ColorNames[]', colorName);
-        
+
         // Push the promise into the promises array
         promises.push(promise);
     });
@@ -217,8 +305,6 @@ window.SaveImage = async function () {
     // Add stockId to the formData
     var stkid = $("#StockId").val();
     var colorImagesId = $("#ColorImagesId").val();
-    alert(arrClrImgsIds);
-    alert(ColorNames);
     console.log(arrClrImgsIds);
     formData.append('ColorImagesId', colorImagesId);
     formData.append('stockId', stkid);
@@ -244,3 +330,9 @@ window.SaveImage = async function () {
         }
     });
 };
+
+
+function RedirectColorImages() {
+    alert(10)
+    window.location.href = getUrlPath() + "ColorImages/Create";
+}
