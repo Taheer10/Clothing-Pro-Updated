@@ -163,7 +163,9 @@ $(document).ready(function () {
             currentRow.find('td:nth-child(3)').html(`<img src="${imageUrl}" alt="Color Image" class="img-thumbnail" style="max-width: 100px;">`);
             currentRow.find('td:nth-child(4)').text(colorImageName);
             // Reset the form and button state after updating
-            $('#ColorImagesForm')[0].reset();
+            //$('#ColorImagesForm')[0].reset();
+            $('#ColorImagesName').val("");
+            $('#ColorImagesImg').val('');
             $('#ColorImagessavebtn').text('Add').off('click').on('click', AddImage);
             isEdit = false;
         } else {
@@ -189,7 +191,9 @@ $(document).ready(function () {
             $('#tblColorImages tbody').append(row);
 
             // Reset form fields after adding a new row
-            $('#ColorImagesForm')[0].reset();
+            //$('#ColorImagesForm')[0].reset();
+            $('#ColorImagesName').val("");
+            $('#ColorImagesImg').val('');
             rowIndex++;
         }
     };
@@ -253,6 +257,7 @@ window.SaveImage = async function () {
     let promises = []; // Store promises for all async tasks
     let arrClrImgsIds = [];
     let ColorNames = [];
+    $("#savecolorimgList").hide();
 
     // Loop through each row of the table body
     $('#tblColorImages tbody tr').each(function () {
@@ -318,8 +323,13 @@ window.SaveImage = async function () {
         contentType: false, // Important for sending FormData
         success: function (result) {
             debugger
-            if (result == true) {
-                alert('Data Saved Successfully');
+            if (result == "success") {
+                setTimeout(() => {
+                    alert('Data Saved Successfully');
+                    $("#savecolorimgList").show()
+                },2000)
+                
+                //window.location.href = getUrlPath() + "stock/create-stock?StId=" + stkid;
                 // Optionally, refresh the page or update the UI
             } else {
                 window.location.reload();
@@ -333,6 +343,5 @@ window.SaveImage = async function () {
 
 
 function RedirectColorImages() {
-    alert(10)
     window.location.href = getUrlPath() + "ColorImages/Create";
 }

@@ -10,11 +10,15 @@
         overflow: hidden;
     }
 
-        #mainImage img {
-            width: 100%;
-            height: 400px;
-            object-fit: cover;
-        }
+    #commonselectedcolorName {
+        font-weight: 900;
+    }
+
+    #mainImage img {
+        width: 100%;
+        height: 420px;
+        object-fit: cover;
+    }
 
     .thumbnail {
         width: 100%;
@@ -207,6 +211,10 @@
                 margin-right: 10px;
             }
     }
+
+    .colorName {
+        display: none;
+    }
 </style>
 
 
@@ -247,31 +255,72 @@
         <!-- Left column with product image -->
         <div class="col-md-6">
             <div id="mainImage">
-                @if (!string.IsNullOrEmpty(Model.StImage))
+                @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
                 {
-                    var images = Model.StImage.Split(';');
-                    <img id="stimageindividual" src="@images[0]" class="img-fluid" alt="@Model.StName">
+                    var modes = Model.ColorImagesDTOs.FirstOrDefault();
+                    var imgSrc = modes.ColorImagesImg;
+                    <img id="stimageindividual" src="@imgSrc" class="img-fluid" alt="">
                 }
+                else
+                {
+
+                    @if (!string.IsNullOrEmpty(Model.StImage))
+                    {
+                        var images = Model.StImage.Split(';');
+                        <img id="stimageindividual" src="@images[0]" class="img-fluid" alt="@Model.StName">
+                    }
+                }
+
                 <a href="#" class="carousel-control left">&lsaquo;</a>
                 <a href="#" class="carousel-control right">&rsaquo;</a>
                 <input type="hidden" asp-for="StId" />
             </div>
-            <div class="thumbnail-container mt-3">
-                <button class="thumbnail-scroll-btn left">&lt;</button>
-                <div class="thumbnail-scroll" id="thumbnails">
-                    @if (!string.IsNullOrEmpty(Model.StImage))
-                    {
-                        var images = Model.StImage.Split(';');
-                        foreach (var image in images)
-                        {
-                            <div class="col-4">
-                                <img id="stimagelist" src="@image" class="img-fluid thumbnail" alt="@Model.StName">
-                            </div>
-                        }
-                    }
-                </div>
-                <button class="thumbnail-scroll-btn right">&gt;</button>
+            <div>
+                @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
+                {
+                    var modes = Model.ColorImagesDTOs.FirstOrDefault();
+                    <span id="commonselectedcolorName" class="" name=$"{@modes.ColorName}">Color Family: @modes.ColorName</span>
+                }
             </div>
+
+            @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
+            {
+                <div class="thumbnail-container colorimagesdtoslist  mt-3">
+                    <button class="thumbnail-scroll-btn left">&lt;</button>
+                    <div class="thumbnail-scroll clrsImgListForSrcs" id="thumbnails">
+                        @{
+                            @foreach (var path in Model.ColorImagesDTOs)
+                            {
+
+                                <img id="@path.ColorImagesId" src="@path.ColorImagesImg" class="img-fluid thumbnail" alt="@path.ColorImagesName" name="@path.ColorName" onmouseover="imgSrc(@path.ColorImagesId)" onclick="imgSrc(@path.ColorImagesId)" />
+                            }
+                        }
+                    </div>
+                    <button class="thumbnail-scroll-btn right">&gt;</button>
+                </div>
+            }
+            else
+            {
+
+                <div class="thumbnail-container mt-3">
+                    <button class="thumbnail-scroll-btn left">&lt;</button>
+                    <div class="thumbnail-scroll" id="thumbnails">
+                        @if (!string.IsNullOrEmpty(Model.StImage))
+                        {
+                            var images = Model.StImage.Split(';');
+                            foreach (var image in images)
+                            {
+                                <div class="col-4">
+                                    <img id="stimagelist" src="@image" class="img-fluid thumbnail" alt="@Model.StName">
+                                </div>
+                            }
+                        }
+                    </div>
+                    <button class="thumbnail-scroll-btn right">&gt;</button>
+                </div>
+            }
+
+
         </div>
 
         <!-- Right column with product details -->
@@ -288,21 +337,46 @@
                 <p id="stockcode" class="price">@Model.StCode</p>
                 <p id="stockdes">@Model.StDes</p>
                 <p>
-                    @if (!string.IsNullOrEmpty(Model.StColour))
+                    @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
                     {
+                        var modes = Model.ColorImagesDTOs.FirstOrDefault();
                         <div class="d-flex align-items-center">
                             <span>Available colors:</span>
                             <div class="d-flex" style="margin-left:10px;">
                                 @{
-                                    var colors = Model.StColour.Split(';');
-                                    foreach (var color in colors)
+                                    foreach (var color in Model.ColorImagesDTOs)
                                     {
-                                        <div style="background-color:@color; height:20px; width:20px; margin-right:5px;"></div>
+                                        <div style="background-color:@color.ColorName; height:20px; width:20px; margin-right:5px;"></div>
                                     }
                                 }
                             </div>
                         </div>
                     }
+                    else
+                    {
+                        @if (!string.IsNullOrEmpty(Model.StColour))
+                        {
+                            <div class="d-flex align-items-center">
+                                <span>Available colors:</span>
+                                <div class="d-flex" style="margin-left:10px;">
+                                    @{
+                                        var colors = Model.StColour.Split(';');
+                                        foreach (var color in colors)
+                                        {
+                                            <div style="background-color:@color; height:20px; width:20px; margin-right:5px;"></div>
+                                        }
+                                    }
+                                </div>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="d-flex align-items-center">
+                                <span>No Available colors:</span> 
+                            </div>
+                        }
+                    }
+                    
                 </p>
                 <p>
                     @if (!string.IsNullOrEmpty(Model.StSize))

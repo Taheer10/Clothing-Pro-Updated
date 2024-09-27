@@ -61,7 +61,7 @@ namespace ClothingPro.Web.Controllers
 
 
         [HttpGet]
-        public IActionResult Create(int ClrId)
+        public IActionResult Create(int ClrId, int stkid = 0)
         {
             ColorImagesDTO model = new ColorImagesDTO();
 
@@ -71,11 +71,13 @@ namespace ClothingPro.Web.Controllers
                 model.colorImagesList = _ColorImagesService.GetAllColorImagesListByStockId(model.StockId);
 
                 ViewBag.ColorImagesList = (new MVCHelper()).BindDropdownList("COLORIMAGES", false, "", "", model.StockId);
-                
-
             }
             else
             {
+                model.colorImagesList = _ColorImagesService.GetAllColorImagesListByStockId(stkid);
+                model.StockDTO = _StockService.GetStockById(stkid);
+                ViewBag.StockName = model.StockDTO.StName;
+                ViewBag.StkId = stkid;
 
             }
             ViewBag.StockList = (new MVCHelper()).BindDropdownList("STOCKUpdate", true);

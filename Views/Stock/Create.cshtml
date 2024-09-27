@@ -58,47 +58,76 @@
                     </div>
                 </div>
 
-                <div class="row g-3 mt-2">
-                    <div class="col-md-6">
-                        <label for="StSortOrder" class="form-label">Sort Order</label>
-                        <input type="text" class="form-control" asp-for="StSortOrder">
-                    </div>
-                    <div class="col-md-6">
-                        <label class="form-label">Colour</label>
-                        <div id="color-picker-container" class="d-flex flex-wrap gap-2">
-                            @if (!string.IsNullOrEmpty(Model.StColour))
-                            {
-                                var colors = Model.StColour.Split(';');
-                                foreach (var color in colors)
-                                {
-                                    <div class="color-picker d-flex align-items-center">
-                                        <input type="color" name="colors" value="@color" class="form-control form-control-color me-2">
-                                        <button type="button" class="btn btn-outline-danger btn-sm" onclick="removeColor(this)">
-                                            <i class="fas fa-trash-alt"></i>
-                                        </button>
-                                    </div>
-                                }
-                            }
+                @if (Model.ColorImagesDTOs.Count == 0)
+                {
+                    <div class="row g-3 mt-2 clrlist">
+                        <div class="col-md-6">
+                            <label for="StSortOrder" class="form-label">Sort Order</label>
+                            <input type="text" class="form-control" asp-for="StSortOrder">
                         </div>
-                        <button type="button" class="btn btn-outline-primary mt-2" onclick="addColorPicker()">
-                            <i class="fas fa-plus"></i> Add Color
-                        </button>
+                        <div class="col-md-6">
+                            <label class="form-label">Colour</label>
+                            <div id="color-picker-container" class="d-flex flex-wrap gap-2">
+                                @if (!string.IsNullOrEmpty(Model.StColour))
+                                {
+                                    var colors = Model.StColour.Split(';');
+                                    foreach (var color in colors)
+                                    {
+                                        <div class="color-picker d-flex align-items-center">
+                                            <input type="color" name="colors" value="@color" class="form-control form-control-color me-2">
+                                            <button type="button" class="btn btn-outline-danger btn-sm" onclick="removeColor(this)">
+                                                <i class="fas fa-trash-alt"></i>
+                                            </button>
+                                        </div>
+                                    }
+                                }
+                            </div>
+                            <button type="button" class="btn btn-outline-primary mt-2" onclick="addColorPicker()">
+                                <i class="fas fa-plus"></i> Add Color
+                            </button>
+                        </div>
                     </div>
+                }
+                <div class="row col-2 g-3 mt-2 clrimgslist">
+                    <button type="button" class="btn btn-outline-primary mt-2" onclick="addColorImages()">
+                        <i class="fas fa-plus"></i> Add ColorList
+                    </button>
                 </div>
 
-                @if (Model.StId != 0 && !string.IsNullOrEmpty(Model.StImage))
+                @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
                 {
                     <div class="row mt-4">
                         <div class="col-12">
                             <h5>Current Images</h5>
-                            <div class="d-flex flex-wrap gap-3">
-                                @foreach (var path in Model.StImage.Split(';'))
+                            <div class="d-flex flex-wrap gap-3 colorImagesList">
+                                @foreach (var path in Model.ColorImagesDTOs)
                                 {
-                                    <img src="@path" alt="Stock Image" class="img-thumbnail" style="width: 150px; height: 150px; object-fit: cover;">
+                                    <div class="commonColorImgsList" style="display:flex; justify-content:center;align-items:center;flex-direction:column">
+                                        <span class="colorName" name=$"{@path.ColorName}">@path.ColorName</span>
+                                        <img id="@path.ColorImagesId" src="@path.ColorImagesImg" alt="Stock Image" class="img-thumbnail" style="width: 150px; height: 150px; object-fit: cover;">
+                                    </div>
                                 }
                             </div>
                         </div>
                     </div>
+                }
+                else
+                {
+                    @if (Model.StId != 0 && !string.IsNullOrEmpty(Model.StImage))
+                    {
+                        <div class="row mt-4">
+                            <div class="col-12">
+                                <h5>Current Images</h5>
+                                <div class="d-flex flex-wrap gap-3">
+                                    @foreach (var path in Model.StImage.Split(';'))
+                                    {
+                                        <img src="@path" alt="Stock Image" class="img-thumbnail" style="width: 150px; height: 150px; object-fit: cover;">
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    }
+
                 }
                 @if (User.Identity.IsAuthenticated)
                 {
@@ -123,11 +152,11 @@
         const newColorPicker = document.createElement('div');
         newColorPicker.className = 'color-picker d-flex align-items-center mt-2';
         newColorPicker.innerHTML = `
-                    <input type="color" name="colors" class="form-control form-control-color me-2">
-                    <button type="button" class="btn btn-outline-danger btn-sm" onclick="removeColor(this)">
-                        <i class="fas fa-trash-alt"></i>
-                    </button>
-                `;
+                                    <input type="color" name="colors" class="form-control form-control-color me-2">
+                                    <button type="button" class="btn btn-outline-danger btn-sm" onclick="removeColor(this)">
+                                        <i class="fas fa-trash-alt"></i>
+                                    </button>
+                                `;
         container.appendChild(newColorPicker);
     }
 

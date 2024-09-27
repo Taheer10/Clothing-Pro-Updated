@@ -333,6 +333,22 @@ function deletestock(stId) {
     });
 }
 
+function imgSrc(id) {
+    var imgElement = $('#' + id);
+    
+    // Retrieve the src and name attributes
+    var imgSrc = imgElement.attr('src');
+    var imgName = imgElement.attr('name');
+
+    $("#stimageindividual").attr('src', imgSrc)
+    $("#commonselectedcolorName").text("Color Family:"+" "+imgName);
+}
+
+function addColorImages() {
+    var stockid = $("#StId").val();
+    window.location.href = getUrlPath() + "ColorImages/Create?stkid=" + stockid;
+}
+
 function FilterList() {
     var isactive = $("#stklist").val();
     window.location.href = getUrlPath() + "stock/Index?inActive=" + isactive;

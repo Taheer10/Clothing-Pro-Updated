@@ -9,6 +9,7 @@
         public int StockId { get; set; }
         public int? colorImagesListId { get; set; }
         public List<ColorImagesDTO>? colorImagesList {  get; set; }
+        public StockDTO? StockDTO { get; set; }
 
     }
 }

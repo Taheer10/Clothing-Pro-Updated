@@ -10,6 +10,8 @@
             <form id="ColorImagesForm" enctype="multipart/form-data">
                 <div class="mb-3">
                     <input type="hidden" asp-for="ColorImagesId" />
+                    <input type="hidden" id="StockName" value="@ViewBag.StockName" />
+                    
                     <label for="ColorImagesName" class="form-label">Color Name</label>
                     <select class="form-select" asp-for="ColorImagesName">
                         <option value="">Select</option>
@@ -93,6 +95,12 @@
         }
 
         $("#ImageEditDiv").hide();
+
+        var stname = $("#StockName").val();
+        if(stname != ""){
+            $("#StockId").val(@ViewBag.StkId);
+        }
+
     });
 
 

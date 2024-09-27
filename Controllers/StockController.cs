@@ -19,12 +19,14 @@ namespace ClothingPro.Web.Controllers
         private readonly IStockService _stockService;
         private readonly IWebHostEnvironment _webHostEnvironment;
         private readonly IMenuHeaderService _menuHeaderService;
+        private readonly IColorImagesService _colorImagesService;
 
-        public StockController(IStockService stockService, IWebHostEnvironment webHostEnvironment, IMenuHeaderService menuHeaderService)
+        public StockController(IStockService stockService, IWebHostEnvironment webHostEnvironment, IMenuHeaderService menuHeaderService, IColorImagesService colorImagesService)
         {
             _stockService = stockService;
             _webHostEnvironment = webHostEnvironment;
             _menuHeaderService = menuHeaderService;
+            _colorImagesService = colorImagesService;
         }
         public IActionResult Index(int inActive = 0)
         {
@@ -54,6 +56,8 @@ namespace ClothingPro.Web.Controllers
             if (StId > 0)
             {
                 model = _stockService.GetStockById(StId);
+                model.ColorImagesDTOs = _colorImagesService.GetAllColorImagesListByStockId(StId);
+
             }
             else
             {
@@ -74,7 +78,7 @@ namespace ClothingPro.Web.Controllers
             {
                 model = _stockService.GetStockById(StId);
                 model.MenuHeaderLists = menuheaderList;
-
+                model.ColorImagesDTOs = _colorImagesService.GetAllColorImagesListByStockId(StId);
             }
             else
             {

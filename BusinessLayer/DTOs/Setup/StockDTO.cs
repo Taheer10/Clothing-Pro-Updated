@@ -32,6 +32,7 @@ public class StockDTO
     public List<MenuHeaderDTO>? MenuHeaderList { get; set; }
     public List<StockMenuView>? StockMenuViewlists { get; set; }
     public List<BannerDTO>? BannerList { get; set; }
+    public List<ColorImagesDTO>? ColorImagesDTOs { get; set; }
 
 
 
