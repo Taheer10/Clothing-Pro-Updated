@@ -1,3 +1,4 @@
+using ClothingPro.BusinessLayer.BusinessService;
 using ClothingPro.BusinessLayer.DTO;
 using ClothingPro.BusinessLayer.Helper;
 using ClothingPro.BusinessLayer.Interface;
@@ -13,13 +14,15 @@ namespace ClothingPro.Controllers
         private readonly IStockService _stockService;
         private readonly IMenuHeaderService _menuHeaderService;
         private readonly IBannerService _bannerService;
+        private readonly IColorImagesService _colorImagesService;
 
-        public HomeController(ILogger<HomeController> logger, IStockService stockService, IMenuHeaderService menuHeaderService, IBannerService bannerService)
+        public HomeController(ILogger<HomeController> logger, IStockService stockService, IMenuHeaderService menuHeaderService, IBannerService bannerService, IColorImagesService colorImagesService)
         {
             _logger = logger;
             _stockService = stockService;
             _menuHeaderService = menuHeaderService;
             _bannerService = bannerService;
+            _colorImagesService = colorImagesService;
         }
 
         public IActionResult Index(string FromDate="",string Todate="")

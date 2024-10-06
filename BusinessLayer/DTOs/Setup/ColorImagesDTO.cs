@@ -6,6 +6,7 @@
         public string ColorImagesName { get; set; }
         public string ColorImagesImg { get; set; }
         public string? ColorName { get; set; }
+        public string? ColorNamePicker { get; set; }
         public int StockId { get; set; }
         public int? colorImagesListId { get; set; }
         public List<ColorImagesDTO>? colorImagesList {  get; set; }

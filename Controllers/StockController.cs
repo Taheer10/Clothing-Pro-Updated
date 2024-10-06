@@ -63,6 +63,10 @@ namespace ClothingPro.Web.Controllers
             {
 
             }
+            if (model.StFlagVal == null)
+            {
+                model.StFlagVal = 0;
+            }
             ViewBag.MenuHeaderList = (new MVCHelper()).BindDropdownList("MENUHEADER", false);
             return View("Create", model);
         }
@@ -84,7 +88,7 @@ namespace ClothingPro.Web.Controllers
             {
 
             }
-          //  ViewBag.MenuHeaderList = (new MVCHelper()).BindDropdownList("MENUHEADER", false);
+            //  ViewBag.MenuHeaderList = (new MVCHelper()).BindDropdownList("MENUHEADER", false);
             return View("StockDetail", model);
         }
 
@@ -218,6 +222,43 @@ namespace ClothingPro.Web.Controllers
             }
         }
 
+        [HttpPost]
+        public IActionResult UpdateFlag(int stockId, int FlagVal)
+        {
+            try
+            {
+                if (stockId != 0)
+                {
+                    var data = _stockService.GetStockById(stockId);
+                    data.StFlagVal = FlagVal;
+                    var stockid = _stockService.CreateStock(data);
+                    //return this.Ok(data);
+                    if (stockid != 0)
+                    {
+                        if (FlagVal == 0)
+                        {
+                            return Json(new { success = true, message = "Data Updated Successfully to Normal Color " });
+                        }
+                        else if (FlagVal == 1)
+                        {
+                            return Json(new { success = true, message = "Data Updated Successfully To ColorList " });
+                        }
+                    }
+                    else // If deletion failed for some reason
+                    {
+                        return Json(new { success = false, message = "Failed to Update the data" });
+
+                    }
+                }
+                return Json(new { success = false, message = "Stock Not Selected" });
+
+            }
+            catch (Exception ex)
+            {
+                return Json(ex.Message);
+            }
+        }
+
         //[HttpGet]
         //public JsonResult Search(string search)
         //{
@@ -225,7 +266,7 @@ namespace ClothingPro.Web.Controllers
 
         //    return Json(new { model = JsonConvert.SerializeObject(model) });
         //} 
-     
+
 
         [HttpGet]
         public JsonResult StockJsonReturn(int StId)

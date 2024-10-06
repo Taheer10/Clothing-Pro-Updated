@@ -8,11 +8,13 @@ function editImage(Clrid) {
     let colorName = row.find('td:nth-child(2)').text();
     let colorImage = row.find('td:nth-child(3) img').attr('src');
     let imageName = row.find('td:nth-child(4)').text();
+    let colorPickerName = row.find('td:nth-child(5)').text();
     // let colorImageFile = row.find('td:nth-child(3) img').attr('src');
 
     // Fill the form with the row's data
     $('#TrackUpdateAddId').val(Clrid);
     $('#TrackUpdateImgName').val(imageName);
+    $("#ColorImagePicker").val(colorPickerName);
 
 
     trackId = $('#TrackUpdateAddId').val();
@@ -82,6 +84,7 @@ function UpdateImage(index) {
     var colorToUpdateName = $('#ColorImagesName').val();
     var ImgToUpdateSrc = $("#OnEditImgSrc").attr('src');
     var imageNameToUpdate = $('#TrackUpdateImgName').val();
+    var colorPickerName = $("#ColorImagePicker").val();
     if (index == 0 || index == undefined && trkid != 0) {
         let CurrentRowData = $(`#tblColorImages tbody tr[id='${trackId}']`);
         //let colorName = CurrentRowData.find('td:nth-child(2)').text();
@@ -90,7 +93,10 @@ function UpdateImage(index) {
         CurrentRowData.find('td:nth-child(2)').text(colorToUpdateName);
         CurrentRowData.find('td:nth-child(3) img').attr('src', ImgToUpdateSrc);
         CurrentRowData.find('td:nth-child(4)').text(imageNameToUpdate);
+        CurrentRowData.find('td:nth-child(5)').text(colorPickerName);
+        $('#ColorImagePicker').val("");
         $('#ColorImagesName').val("");
+        $('#ColorImagesImg').val("");
         $("#ImageEditDiv").hide();
         $("#OnEditImgSrc").attr('src', "");
         $('#ColorImagessavebtn').text('Add').attr('onclick', 'AddImage()');
@@ -101,7 +107,10 @@ function UpdateImage(index) {
         CurrentRowData.find('td:nth-child(2)').text(colorToUpdateName);
         CurrentRowData.find('td:nth-child(3) img').attr('src', ImgToUpdateSrc);
         CurrentRowData.find('td:nth-child(4)').text(imageNameToUpdate);
+        CurrentRowData.find('td:nth-child(5)').text(colorPickerName);
+        $('#ColorImagePicker').val("");
         $('#ColorImagesName').val("");
+        $('#ColorImagesImg').val("");
         $("#ImageEditDiv").hide();
         $("#OnEditImgSrc").attr('src', "");
         $('#ColorImagessavebtn').text('Add').attr('onclick', 'AddImage()');
@@ -109,6 +118,25 @@ function UpdateImage(index) {
     }
 
 }
+
+$('input[type="file"]').change(function () {
+    let colorImageFile = $('#ColorImagesImg')[0].files[0];
+    let imageUrl = URL.createObjectURL(colorImageFile);
+    if (colorImageFile.name != "" || colorImageFile.name != null || colorImageFile.name != undefined) {
+        $("#ImageEditDiv").show();
+        $('#OnEditImgSrc').attr('src', imageUrl);
+        $('#TrackUpdateImgName').val(colorImageFile.name);
+        $('#OnEditImgSrc').css({
+            'height': '100px',
+            'width': '100px',
+            'margin-left': '47%',
+            'margin-bottom': '3%'
+
+        });
+    }
+});
+
+
 
 
 $(document).ready(function () {
@@ -128,6 +156,7 @@ $(document).ready(function () {
         let colorName = $('#ColorImagesName').val();
         let colorImageFile = $('#ColorImagesImg')[0].files[0];
         let colorImageName = "";
+        let colorPickerName = $("#ColorImagePicker").val();
         if (colorImageFile != undefined) {
             colorImageName = colorImageFile.name.toLowerCase();
         }
@@ -182,6 +211,7 @@ $(document).ready(function () {
                                                               <td>${colorName}</td>
                                                               <td><img src="${imageUrl}" alt="Color Image" class="img-thumbnail" style="max-width: 100px;"></td>
                                                                   <td>${colorImageName}</td>
+                                                              <td>${colorPickerName}</td>
                                                               <td>
                                                                   <button class="btn btn-warning btn-sm" onclick="EditRow(${rowIndex})">Edit</button>
                                                                   <button class="btn btn-danger btn-sm" onclick="DeleteRow(${rowIndex})">Delete</button>
@@ -194,6 +224,8 @@ $(document).ready(function () {
             //$('#ColorImagesForm')[0].reset();
             $('#ColorImagesName').val("");
             $('#ColorImagesImg').val('');
+            $("#ImageEditDiv").hide();
+            $("#OnEditImgSrc").attr('src', "");
             rowIndex++;
         }
     };
@@ -205,7 +237,9 @@ $(document).ready(function () {
         let colorName = row.find('td:nth-child(2)').text();
         let colorImageFile = row.find('td:nth-child(3) img').attr('src');
         let imageName = row.find('td:nth-child(4)').text();
+        let colorPickerName = row.find('td:nth-child(5)').text();
         // Fill the form with the row's data
+        $("#ColorImagePicker").val(colorPickerName);
         $('#ColorImagesName').val(colorName);
         $("#ImageEditDiv").show();
         $('#OnEditImgSrc').css({
@@ -257,16 +291,18 @@ window.SaveImage = async function () {
     let promises = []; // Store promises for all async tasks
     let arrClrImgsIds = [];
     let ColorNames = [];
+    let ColorNamePickers = [];
     $("#savecolorimgList").hide();
 
     // Loop through each row of the table body
     $('#tblColorImages tbody tr').each(function () {
-         //debugger
+        debugger
         let row = $(this);
         let colorName = row.find('td:nth-child(2)').text();
         let colorImageName = row.find('td:nth-child(4)').text();
+        let colorPickerName = row.find('td:nth-child(5)').text();
         let blobUrl = row.find('td:nth-child(3) img').attr('src'); // Get the image file reference
-        let clrImgIds = row.find('td:nth-child(6)').text();
+        let clrImgIds = row.find('td:nth-child(7)').text();
         if (clrImgIds == "") {
             clrImgIds = 0;
         }
@@ -285,7 +321,7 @@ window.SaveImage = async function () {
 
         // Create a promise to handle the file conversion and formData append
         let promise = blobUrlToFile(blobUrl, colorImageName).then((file) => {
-         //   debugger
+            //   debugger
             console.log(file); // This will log the file object
             formData.append('ColorImagesList[].ColorImagesImg', file); // Append the file to formData
         });
@@ -293,6 +329,7 @@ window.SaveImage = async function () {
         formData.append('ColorImagesList[].ColorImagesName', colorName);
         formData.append('arrClrImgsIds[]', clrImgIds);
         formData.append('ColorNames[]', colorName);
+        formData.append('ColorNamePickers[]', colorPickerName);
 
         // Push the promise into the promises array
         promises.push(promise);
@@ -327,8 +364,8 @@ window.SaveImage = async function () {
                 setTimeout(() => {
                     alert('Data Saved Successfully');
                     $("#savecolorimgList").show()
-                },2000)
-                
+                }, 1000)
+
                 //window.location.href = getUrlPath() + "stock/create-stock?StId=" + stkid;
                 // Optionally, refresh the page or update the UI
             } else {

@@ -41,6 +41,14 @@
       "PackagePath": "staticwebassets\\banners\\shirt.jpg"
     },
     {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\best.jpg",
+      "PackagePath": "staticwebassets\\colorimages\\best.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\hoodie.jpg",
+      "PackagePath": "staticwebassets\\colorimages\\hoodie.jpg"
+    },
+    {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\jacket.jpg",
       "PackagePath": "staticwebassets\\colorimages\\jacket.jpg"
     },
@@ -55,6 +63,10 @@
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\shirt.jpg",
       "PackagePath": "staticwebassets\\colorimages\\shirt.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\sweater.jpg",
+      "PackagePath": "staticwebassets\\colorimages\\sweater.jpg"
     },
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\css\\carousel.css",
@@ -97,8 +109,20 @@
       "PackagePath": "staticwebassets\\images\\banners\\shirt.jpg"
     },
     {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\best.jpg",
+      "PackagePath": "staticwebassets\\images\\best.jpg"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\hoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\hoodie.jpg"
+    },
+    {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\img.webp",
       "PackagePath": "staticwebassets\\images\\img.webp"
+    },
+    {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\jacket.jpg",
+      "PackagePath": "staticwebassets\\images\\jacket.jpg"
     },
     {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\images\\p.webp",

@@ -74,10 +74,14 @@ namespace ClothingPro.Web.Controllers
             }
             else
             {
-                model.colorImagesList = _ColorImagesService.GetAllColorImagesListByStockId(stkid);
-                model.StockDTO = _StockService.GetStockById(stkid);
-                ViewBag.StockName = model.StockDTO.StName;
-                ViewBag.StkId = stkid;
+                if (stkid != 0)
+                {
+                    model.colorImagesList = _ColorImagesService.GetAllColorImagesListByStockId(stkid);
+                    model.StockDTO = _StockService.GetStockById(stkid);
+                    ViewBag.StockName = model.StockDTO.StName;
+                    ViewBag.StkId = stkid;
+                }
+
 
             }
             ViewBag.StockList = (new MVCHelper()).BindDropdownList("STOCKUpdate", true);
@@ -88,7 +92,7 @@ namespace ClothingPro.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreatePost(IFormFile ColorImagesListFile, List<ColorImagesDTO> ColorImagesList, int stockId, List<Int32> arrClrImgsIds, List<String> ColorNames)
+        public async Task<IActionResult> CreatePost(IFormFile ColorImagesListFile, List<ColorImagesDTO> ColorImagesList, int stockId, List<Int32> arrClrImgsIds, List<String> ColorNames, List<String> ColorNamePickers)
         {
             try
             {
@@ -99,6 +103,7 @@ namespace ClothingPro.Web.Controllers
                     var formfiles = Request.Form.Files;
                     List<Int32> ClrImgsIds = arrClrImgsIds;
                     List<String> ClrImgsNames = ColorNames;
+                    List<String> ClrNamesPickers = ColorNamePickers;
                     List<ColorImagesDTO> clrImages = ColorImagesList;
                     //var allowedExtensions = new[] { ".jpg", ".jpeg", ".png" };
                     if (formfiles.Count > 0)
@@ -151,6 +156,17 @@ namespace ClothingPro.Web.Controllers
                                                 colorImage.ColorName = ClrImgsNames[k];
                                             }
                                         }
+
+                                        int m;
+
+                                        for (m = 0; m < ColorNamePickers.Count; m++)
+                                        {
+                                            if (i == m)
+                                            {
+                                                colorImage.ColorNamePicker = ColorNamePickers[m];
+                                            }
+                                        }
+
                                         colorImages.colorImagesList.Add(colorImage);
                                     }
                                 }
@@ -167,8 +183,18 @@ namespace ClothingPro.Web.Controllers
                                             ColorImagesImg = "/colorimages/" + fileName, // Set the image path,
                                             StockId = stockId,
                                             ColorImagesName = fileName,
-                                            ColorName = ClrImgsNames[l]
+                                            ColorName = ClrImgsNames[l],
                                         };
+                                        int m;
+
+                                        for (m = 0; m < ColorNamePickers.Count; m++)
+                                        {
+                                            if (l == m)
+                                            {
+                                                colorImage.ColorNamePicker = ColorNamePickers[m];
+                                            }
+                                        }
+
                                         colorImages.colorImagesList.Add(colorImage);
                                     }
 

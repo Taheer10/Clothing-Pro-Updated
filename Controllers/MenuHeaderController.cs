@@ -133,11 +133,19 @@ namespace ClothingPro.Web.Controllers
         public IActionResult Search(string search)
         {
             StockMenuView stockmenuviewsearch = new StockMenuView();
+            if(search == "All Items")
+            {
+                ViewBag.SearchHeader = search;
+                search = null;
+            }
+            else
+            {
+                ViewBag.SearchHeader = search;
+            }
             var model = _StockService.GetStockMenuList(search);
             var menuheaderList = _MenuHeaderService.GetAllMenuHeader();
 
-            ViewBag.SearchHeader = search;
-            stockmenuviewsearch.StSearchValue = search;
+            stockmenuviewsearch.StSearchValue =  ViewBag.SearchHeader;
             stockmenuviewsearch.MenuHeaderList = menuheaderList;
 
 

@@ -13,17 +13,22 @@
                     <input type="hidden" id="StockName" value="@ViewBag.StockName" />
                     
                     <label for="ColorImagesName" class="form-label">Color Name</label>
-                    <select class="form-select" asp-for="ColorImagesName">
+                    @* <select class="form-select" asp-for="ColorImagesName">
                         <option value="">Select</option>
                         <option value="Red">Red</option>
                         <option value="Green">Green</option>
                         <option value="Blue">Blue</option>
                         <option value="Yellow">Yellow</option>
-                    </select>
+                    </select> *@
+                    <input type="text" class="form-control" asp-for="ColorImagesName" />
                 </div>
                 <div class="mb-3">
                     <label for="ColorImagesImg" class="form-label">Color Image</label>
                     <input class="form-control" type="file" name="ColorImagesImg" asp-for="ColorImagesImg" accept="image/*" />
+                </div>
+                <div class="mb-3 col-3">
+                    <label for="ColorImagePicker" class="form-label">Color Picker</label>
+                    <input class="col-1 form-control" type="color" name="ColorImagePicker" id="ColorImagePicker" />
                 </div>
                 @* <div>
                     <select class="form-select" asp-for="colorImagesListId" asp-items="@ViewBag.ColorImagesList"></select>
@@ -36,7 +41,7 @@
                     <span id="TrackUpdateImgName"></span>
                 </div>
                 <div class="mb-3">
-                <label for="ColorImagesIsActive" class="form-label">Is Active</label>
+                <label for="ColorImagesIsActive" class="form-label">StockName</label>
                     <select class="form-select" asp-for="StockId" asp-items="@ViewBag.StockList"></select>
                 </div>
 
@@ -53,6 +58,7 @@
                         <th scope="col">ColorName</th>
                         <th scope="col">ColorImage</th>
                         <th scope="col">ImageName</th>
+                        <th scope="col">Color</th>
                         <th scope="col">Action</th>
                     </tr>
                 </thead>
@@ -83,6 +89,7 @@
                     '<td>' + item.ColorName + '</td>' +
                     '<td><img src="' + item.ColorImagesImg + '" alt="Color Image" width="50" height="50"/></td>' +
                     '<td>' + item.ColorImagesImg.split('/').pop() + '</td>' +  // Extracts the image name from the path
+                    '<td class="clrnamepickers">' + item.ColorNamePicker + '</td>' +
                     '<td><button class="btn btn-primary" onclick="editImage(' + item.ColorImagesId + ')">Edit</button>' +
                     ' <button class="btn btn-danger" onclick="deleteImage(' + item.ColorImagesId + ')">Delete</button></td>' +
                     '<td class="clrimgids" style="display:none">' + item.ColorImagesId + '</td>' +

@@ -333,15 +333,20 @@ function deletestock(stId) {
     });
 }
 
+
+
 function imgSrc(id) {
     var imgElement = $('#' + id);
-    
+    //debugger
     // Retrieve the src and name attributes
     var imgSrc = imgElement.attr('src');
     var imgName = imgElement.attr('name');
 
     $("#stimageindividual").attr('src', imgSrc)
-    $("#commonselectedcolorName").text("Color Family:"+" "+imgName);
+    var stflag = $("#StFlagValId").val();
+    if (stflag == 1) {
+        $("#commonselectedcolorName").text("Color Family:" + " " + imgName);
+    }
 }
 
 function addColorImages() {
@@ -368,6 +373,32 @@ function displayLatestItems() {
 
 function RedirectBanner() {
     window.location.href = getUrlPath() + "Banner/Create";
+}
+
+function changeStatus(id) {
+    var FlagValue = id;
+    var stockId = $("#StId").val();
+    $.ajax({
+        type: "POST",
+        url: getUrlPath() + "Stock/UpdateFlag",
+        data: { stockId: stockId, FlagVal: FlagValue }, // Send the data as JSON
+        success: function (result) {
+            if (result.success == true) {
+                alert(result.message);
+                window.location.reload();
+                // Optionally, refresh the page or update the UI
+            }
+            //else {
+            //    //alert("Error: " + result); // Better to show the error message if available
+            //    window.location.reload();
+            //    alert('Flag Updated Successfully');
+
+            //}
+        },
+        error: function (result) {
+            alert(result.message);
+        }
+    });
 }
 
 function SaveBanner() {

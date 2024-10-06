@@ -274,16 +274,17 @@
                 <a href="#" class="carousel-control left">&lsaquo;</a>
                 <a href="#" class="carousel-control right">&rsaquo;</a>
                 <input type="hidden" asp-for="StId" />
+                <input type="hidden" id="StFlagValId" value="@Model.StFlagVal" />
             </div>
             <div>
-                @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
+                @if (Model.ColorImagesDTOs.Count > 0 && Model.StFlagVal == 1)
                 {
                     var modes = Model.ColorImagesDTOs.FirstOrDefault();
                     <span id="commonselectedcolorName" class="" name=$"{@modes.ColorName}">Color Family: @modes.ColorName</span>
                 }
             </div>
 
-            @if (Model.ColorImagesDTOs != null && Model.ColorImagesDTOs.Count > 0)
+            @if (Model.ColorImagesDTOs.Count > 0 && Model.StFlagVal == 1)
             {
                 <div class="thumbnail-container colorimagesdtoslist  mt-3">
                     <button class="thumbnail-scroll-btn left">&lt;</button>
@@ -299,6 +300,27 @@
                     <button class="thumbnail-scroll-btn right">&gt;</button>
                 </div>
             }
+            else if(Model.StFlagVal == 0)
+            {
+
+                <div class="thumbnail-container mt-3">
+                    <button class="thumbnail-scroll-btn left">&lt;</button>
+                    <div class="thumbnail-scroll" id="thumbnails">
+                        @if (!string.IsNullOrEmpty(Model.StImage))
+                        {
+                            var images = Model.StImage.Split(';');
+                            foreach (var image in images)
+                            {
+                                <div class="col-4">
+                                    <img id="stimagelist" src="@image" class="img-fluid thumbnail" alt="@Model.StName">
+                                </div>
+                            }
+                        }
+                    </div>
+                    <button class="thumbnail-scroll-btn right">&gt;</button>
+                </div>
+            }
+
             else
             {
 
@@ -346,7 +368,7 @@
                                 @{
                                     foreach (var color in Model.ColorImagesDTOs)
                                     {
-                                        <div style="background-color:@color.ColorName; height:20px; width:20px; margin-right:5px;"></div>
+                                        <div style="background-color:@color.ColorNamePicker; height:20px; width:20px; margin-right:5px;"></div>
                                     }
                                 }
                             </div>

@@ -195,7 +195,8 @@ namespace ClothingPro.BusinessLayer.BusinessService
                 ColorImagesImg = x.ColorImagesImg,
                 ColorImagesName = x.ColorImagesName,
                 StockId = x.StockId,
-                ColorName = x.ColorName
+                ColorName = x.ColorName,
+                ColorNamePicker = x.ColorNamePicker
             }).ToList();
 
             return await Task.FromResult(ColorImagesDetaillList);

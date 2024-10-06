@@ -10,6 +10,7 @@ namespace ClothingPro.DataAccessLayer.Model
         public int ColorImagesId { get; set; }
         public string ColorImagesName { get; set; }
         public string? ColorName { get; set; }
+        public string? ColorNamePicker { get; set; }
         public string ColorImagesImg { get; set; }
         public int StockId { get; set; }
     }

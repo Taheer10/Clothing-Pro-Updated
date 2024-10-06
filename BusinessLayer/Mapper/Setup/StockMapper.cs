@@ -26,7 +26,7 @@ public class StockMapper
             StSortOrder = x.StSortOrder,
             StAddedDate = x.StAddedDate,
             StMenuHeaderId = x.StMenuHeaderId,
-
+            StFlagVal = x.StFlagVal,
 
         }).ToList();
         return stockDTOList;
@@ -52,8 +52,7 @@ public class StockMapper
             StSortOrder = x.StSortOrder,
             StAddedDate = x.StAddedDate,
             StMenuHeaderId = x.StMenuHeaderId,
-
-
+            StFlagVal = x.StFlagVal,
         }).ToList();
 
         return stockList;
@@ -79,8 +78,7 @@ public class StockMapper
             StSortOrder = x.StSortOrder,
             StAddedDate = x.StAddedDate,
             StMenuHeaderId = x.StMenuHeaderId,
-
-
+            StFlagVal = x.StFlagVal,
         };
     }
 
@@ -104,6 +102,7 @@ public class StockMapper
             StSortOrder = x.StSortOrder,
             StAddedDate = x.StAddedDate,
             StMenuHeaderId = x.StMenuHeaderId,
+            StFlagVal = x.StFlagVal,
 
         };
     }

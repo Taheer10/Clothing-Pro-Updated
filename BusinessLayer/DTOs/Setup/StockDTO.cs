@@ -13,6 +13,7 @@ public class StockDTO
     public string? StDes { get; set; }
     public int? StInActive { get; set; }
     public int? StSortOrder { get; set; }
+    public int? StFlagVal { get; set; }
     public string? StCode { get; set; }
     public string? StImage { get; set; }
     public string? StImageUpdate { get; set; }
