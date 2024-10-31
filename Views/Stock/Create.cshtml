@@ -91,44 +91,52 @@
 
                 <div class="row col-12 g-3 mt-2 clrimgslist">
                     <button type="button" class="btn btn-outline-primary mt-2 col-3" onclick="addColorImages()">
-                        <i class="fas fa-plus"></i> Add ColorList
+                        <i class="fas fa-plus"></i> ColorList
                     </button>
-                    @if (Model.ColorImagesDTOs.Count > 0 && Model.StFlagVal == 0)
+                    @if (Model.ColorImagesDTOs != null)
                     {
-                        <button id="toggleval" type="button" class="btn btn-outline-primary mt-2 col-2 ml-1" onclick="changeStatus(1)">Show ColorList</button>
 
+                        @if (Model.ColorImagesDTOs.Count > 0 && Model.StFlagVal == 0)
+                        {
+                            <button id="toggleval" type="button" class="btn btn-outline-primary mt-2 col-2 ml-1" onclick="changeStatus(1)">ColorList</button>
+
+                        }
+                        else if (Model.StFlagVal == 1)
+                        {
+                            <button id="toggleval" type="button" class="btn btn-outline-primary mt-2 col-2 ml-1" onclick="changeStatus(0)">Normal</button>
+                        }
                     }
-                    else if (Model.StFlagVal == 1)
+
+
+                    @*    else
                     {
-                        <button id="toggleval" type="button" class="btn btn-outline-primary mt-2 col-2 ml-1" onclick="changeStatus(0)">Normal Color</button>
-                    }
-                   
-                 @*    else
-                    {
-                        <button id="toggleval" type="button" class="btn btn-outline-primary mt-2 col-2 ml-1" onclick="changeStatus(0)">Normal Color</button>
+                    <button id="toggleval" type="button" class="btn btn-outline-primary mt-2 col-2 ml-1" onclick="changeStatus(0)">Normal Color</button>
                     } *@
-
-                    @if (Model.ColorImagesDTOs.Count > 0 && Model.StFlagVal == 1)
+                    @if (Model.ColorImagesDTOs != null)
                     {
-                        <div class="mt-2 clrlist">
+                        @if (Model.ColorImagesDTOs.Count > 0 && Model.StFlagVal == 1)
+                        {
+                            <div class="mt-2 clrlist">
 
-                            <div class="col-md-6">
-                                <label class="form-label">Colour</label>
-                                <div id="color-picker-container" class="d-flex flex-wrap gap-2">
-                                    @if (Model.ColorImagesDTOs.Count > 0)
-                                    {
-                                        foreach (var color in Model.ColorImagesDTOs)
+                                <div class="col-md-6">
+                                    <label class="form-label">Colour</label>
+                                    <div id="color-picker-container" class="d-flex flex-wrap gap-2">
+                                        @if (Model.ColorImagesDTOs.Count > 0)
                                         {
-                                            <div class="color-picker d-flex align-items-center">
-                                                <input type="color" name="colors" value="@color.ColorNamePicker" class="form-control form-control-color me-2">
-                                            </div>
+                                            foreach (var color in Model.ColorImagesDTOs)
+                                            {
+                                                <div class="color-picker d-flex align-items-center">
+                                                    <input type="color" name="colors" value="@color.ColorNamePicker" class="form-control form-control-color me-2">
+                                                </div>
+                                            }
                                         }
-                                    }
-                                </div>
+                                    </div>
 
+                                </div>
                             </div>
-                        </div>
+                        }
                     }
+                    
 
                 </div>
 
@@ -190,11 +198,11 @@
         const newColorPicker = document.createElement('div');
         newColorPicker.className = 'color-picker d-flex align-items-center mt-2';
         newColorPicker.innerHTML = `
-                                        <input type="color" name="colors" class="form-control form-control-color me-2">
-                                        <button type="button" class="btn btn-outline-danger btn-sm" onclick="removeColor(this)">
-                                            <i class="fas fa-trash-alt"></i>
-                                        </button>
-                                    `;
+                                            <input type="color" name="colors" class="form-control form-control-color me-2">
+                                            <button type="button" class="btn btn-outline-danger btn-sm" onclick="removeColor(this)">
+                                                <i class="fas fa-trash-alt"></i>
+                                            </button>
+                                        `;
         container.appendChild(newColorPicker);
     }
 

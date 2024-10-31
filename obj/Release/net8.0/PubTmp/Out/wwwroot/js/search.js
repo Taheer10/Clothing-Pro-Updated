@@ -100,10 +100,16 @@ $(document).ready(function () {
 });
 
 
-function DisplaySearchItemsList() {
-
+function DisplaySearchItemsList(search) {
+    debugger
     var val = $("#search-input-value").val();
-    window.location.href = getUrlPath() + "MenuHeader/Search?search=" + val;
+    if (search == "All Items") {
+        window.location.href = getUrlPath() + "MenuHeader/Search?search=" + search;
+
+    } else {
+        window.location.href = getUrlPath() + "MenuHeader/Search?search=" + val;
+
+    }
     //alert(val);
     //if (val != "") {
     //    $.ajax({

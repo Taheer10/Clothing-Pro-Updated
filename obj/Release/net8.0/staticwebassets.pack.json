@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\banners\\shirt.jpg"
     },
     {
+      "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\sweater.jpg",
+      "PackagePath": "staticwebassets\\banners\\sweater.jpg"
+    },
+    {
       "Id": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\colorimages\\best.jpg",
       "PackagePath": "staticwebassets\\colorimages\\best.jpg"
     },

@@ -145,6 +145,7 @@ function getColors() {
 }
 
 function ValidateSave() {
+    $("#SubmitButton").hide();
     var stockInfo = {
         StId: $("#StId").val(),
         StName: $("#StName").val(),
@@ -162,7 +163,7 @@ function ValidateSave() {
         StSortOrder: $("#StSortOrder").val(),
         StMenuHeaderId: $("#StMenuHeaderId").val()
     };
-    debugger
+
 
     var formData = new FormData();
     // Append model data as a JSON string
@@ -194,10 +195,56 @@ function ValidateSave() {
             }
         },
         error: function (result) {
-            alert("Cannot Save Data. Please try again.");
+            alert(result.responseText);
+            //alert("Cannot Save Data. Please try again.");
         }
     });
 }
+
+
+
+
+
+//function SaveBanner() {
+//    $("#bannersavebtn").hide();
+//    var bannerInfo = {
+//        BannerId: $("#BannerId").val(),
+//        BannerImg: $("#BannerImg").val(),
+//        BannerIsActive: $("#BannerIsActive").val(),
+//        StSortOrder: $("#StSortOrder").val(),
+
+//    };
+
+
+//    var formData = new FormData();
+//    formData.append("model", JSON.stringify(bannerInfo));
+
+
+//    $.ajax({
+//        type: "POST",
+//        url: getUrlPath() + "Banner/CreatePost",
+//        data: formData,
+//        contentType: false,
+//        processData: false,
+//        success: function (result) {
+//            if (result === "success") {
+//                alert('Data Saved Successfully');
+//                //window.location.reload();
+//                window.location.href = getUrlPath() + "Stock/Index";
+//            } else {
+//                // Handle the error
+//                alert("Error: " + result);
+//            }
+//        },
+//        error: function (result) {
+//            alert(result.responseText);
+//            //alert("Cannot Save Data. Please try again.");
+//        }
+//    });
+//}
+
+
+
 
 //function displayLatestItems() {
 //    var fromdate = $("#fromdate").val();
@@ -286,6 +333,32 @@ function deletestock(stId) {
     });
 }
 
+
+
+function imgSrc(id) {
+    var imgElement = $('#' + id);
+    //debugger
+    // Retrieve the src and name attributes
+    var imgSrc = imgElement.attr('src');
+    var imgName = imgElement.attr('name');
+
+    $("#stimageindividual").attr('src', imgSrc)
+    var stflag = $("#StFlagValId").val();
+    if (stflag == 1) {
+        $("#commonselectedcolorName").text("Color Family:" + " " + imgName);
+    }
+}
+
+function addColorImages() {
+    var stockid = $("#StId").val();
+    window.location.href = getUrlPath() + "ColorImages/Create?stkid=" + stockid;
+}
+
+function FilterList() {
+    var isactive = $("#stklist").val();
+    window.location.href = getUrlPath() + "stock/Index?inActive=" + isactive;
+}
+
 function openDetail(stId) {
     window.location.href = getUrlPath() + "stock/create-stock?StId=" + stId;
 }
@@ -296,6 +369,83 @@ function displayPopularItems() {
 
 function displayLatestItems() {
     window.location.href = getUrlPath() + "Home/StockLatetsItems";
+}
+
+function RedirectBanner() {
+    window.location.href = getUrlPath() + "Banner/Create";
+}
+
+function changeStatus(id) {
+    var FlagValue = id;
+    var stockId = $("#StId").val();
+    $.ajax({
+        type: "POST",
+        url: getUrlPath() + "Stock/UpdateFlag",
+        data: { stockId: stockId, FlagVal: FlagValue }, // Send the data as JSON
+        success: function (result) {
+            if (result.success == true) {
+                alert(result.message);
+                window.location.reload();
+                // Optionally, refresh the page or update the UI
+            }
+            //else {
+            //    //alert("Error: " + result); // Better to show the error message if available
+            //    window.location.reload();
+            //    alert('Flag Updated Successfully');
+
+            //}
+        },
+        error: function (result) {
+            alert(result.message);
+        }
+    });
+}
+
+function SaveBanner() {
+    $("#bannersavebtn").hide();
+    var bannerInfo = {
+        BannerId: $("#BannerId").val(),
+        BannerIsActive: $("#BannerIsActive").val(),
+        BannerSortOrder: $("#BannerSortOrder").val(),
+
+    };
+
+    // Create a new FormData object
+    var formData = new FormData();
+
+    // formData.append("BannerId", $("#BannerId").val());
+    // formData.append("BannerIsActive", $("#BannerIsActive").val());
+    // formData.append("StSortOrder", $("#StSortOrder").val());
+    debugger;
+
+    var fileInput = document.getElementById("BannerImg");
+    if (fileInput.files.length > 0) {
+        formData.append("BannerImg", fileInput.files[0]);
+    }
+
+    formData.append("model", JSON.stringify(bannerInfo));
+
+    $.ajax({
+        type: "POST",
+        url: getUrlPath() + "Banner/CreatePost",
+        data: formData,
+        contentType: false,
+        processData: false,
+        success: function (result) {
+            if (result.success) {
+                window.location.href = getUrlPath() + "Banner/Index";
+                alert(result.message);
+
+            } else {
+                alert("Error: " + result.responseText);
+            }
+        },
+        error: function (result) {
+            debugger
+            // alert("Cannot Save Data. Please try again.");
+            alert("Error: " + result.responseText);
+        }
+    });
 }
 
 function saveMenuHeader() {
@@ -354,6 +504,36 @@ function saveCompanyDetail() {
     });
 }
 
+function deleteBanner(bnId) {
+    if (bnId === 0 || bnId === null) {
+        alert("Please select Item to Delete");
+        return; // Exit function if no valid stId
+    }
+
+    var userConfirmed = confirm('Are you sure you want to delete?');
+    if (!userConfirmed) {
+        return false;
+    }
+
+    $.ajax({
+        type: "POST",
+        url: getUrlPath() + "Banner/Delete",
+        data: { bnId: bnId },
+        success: function (result) {
+            if (result == true) {
+                alert('Data Deleted Successfully');
+            } else {
+                window.location.reload();
+                alert('Data Deleted Successfully');
+
+            }
+        },
+        error: function (result) {
+            alert("Cannot Delete Data. Please try again.");
+        }
+    });
+}
+
 function RedirectStockCreate() {
     window.location.href = getUrlPath() + "Stock/Create-Stock";
 
@@ -362,13 +542,58 @@ function RedirectStockCreate() {
 function createMenuHeader(id) {
     window.location.href = getUrlPath() + "MenuHeader/Create?mnId=" + id;
 }
+function createBanner(bnId) {
+    window.location.href = getUrlPath() + "Banner/Create?bnId=" + bnId;
+}
+
 function getStockMenuList(id) {
     window.location.href = getUrlPath() + "MenuHeader/GetStockMenuDetail?mnId=" + id;
+}
+
+function GotoHome() {
+    window.location.href = getUrlPath() + "Home/Index";
 }
 
 function RedirectMenuHeader() {
     window.location.href = getUrlPath() + "MenuHeader/Create";
 }
+
+function createColorImages(id) {
+    if (id === 0 || id === null) {
+        alert("Please select ");
+        return;
+    }
+
+    window.location.href = getUrlPath() + "ColorImages/Create?ClrId=" + id;
+}
+
+//function createColorImages(id) {
+//    if (id === 0 || id === null) {
+//        alert("Please select ");
+//        return;
+//    }
+
+//    //window.location.href = getUrlPath() + "ColorImages/Create?ClrId=" + id;
+//    $.ajax({
+//        type: "GET",
+//        url: getUrlPath() + "ColorImages/Create?ClrId=" + id,
+//        success: function (model) {
+//            debugger
+//            var result = model;
+//            window.location.href = getUrlPath() + "ColorImages/CreateInfo?ClrinfoId=" + result.model.colorImagesId + "&colorImagesList=" + result.model.colorImagesList;
+
+//            ////result = JSON.parse(model);
+//            //var obj = [result.model];
+
+
+//            console.log(result);
+//        },
+//        error: function (result) {
+
+//        }
+//    });
+
+//}
 
 function deleteMenuHeader(mnId) {
     if (mnId === 0 || mnId === null) {
@@ -408,5 +633,5 @@ function OpenImageDetail(imagePath) {
 }
 
 function ChangeImageDetail(imageUrl) {
-    $(".stockimagecontained").attr("src", imageUrl); 
+    $(".stockimagecontained").attr("src", imageUrl);
 }

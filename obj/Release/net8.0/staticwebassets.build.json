@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ssfkY6EwMk3lb3St0yBeR3+LbFkitXUL5QL5sI4FnAg=",
+  "Hash": "H7EZIM5OkvQuMihV685TJkqkznlOcBRecbC1F2lsxw4=",
   "Source": "ClothingPro",
   "BasePath": "_content/ClothingPro",
   "Mode": "Default",
@@ -1307,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\banners\\shirt.jpg"
+    },
+    {
+      "Identity": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\sweater.jpg",
+      "SourceId": "ClothingPro",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\",
+      "BasePath": "_content/ClothingPro",
+      "RelativePath": "banners/sweater.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\banners\\sweater.jpg"
     },
     {
       "Identity": "D:\\abhi\\final\\clothin-pro-master\\wwwroot\\banners\\WIN_20240625_07_36_05_Pro.jpg",

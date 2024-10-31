@@ -178,11 +178,16 @@ namespace ClothingPro.Web.Controllers
                     model.StAddedDate = model.StId != 0 ? _stockService.GetStockById(model.StId).StAddedDate : DateTime.Now;
                     if (stImages.Count == 0)
                     {
-                        var stockdetail = _stockService.GetStockById(model.StId);
-                        if (!string.IsNullOrEmpty(stockdetail.StImage))
+                        if (model.StId != 0)
                         {
-                            model.StImage = stockdetail.StImage;
+                            var stockdetail = _stockService.GetStockById(model.StId);
+
+                            if (!string.IsNullOrEmpty(stockdetail.StImage))
+                            {
+                                model.StImage = stockdetail.StImage;
+                            }
                         }
+
                     }
 
                     _stockService.CreateStock(model);

@@ -107,9 +107,9 @@
 </head>
 <body>
     <div class="stock">
-        <div class="searchandheader">
+        <div class="searchandheader col-12">
             <div class="col-3"><h3 class="text-black">@Html.ActionLink("Stock", "Index")</h3></div>
-            <div class="col-md-3">
+            <div class="col-3">
                 <div class="title-action">
                     <select id="stklist" class="form-select">
                         <option value="-1">All</option>
@@ -118,12 +118,12 @@
                     </select>
                 </div>
             </div>
-            <div class="input-group col-md-3 m-2">
+            <div class="col-3 m-2">
                 <button type="button" class="btn btn-primary " onclick="FilterList()" data-mdb-ripple-init>
                     <i class="fas fa-search"></i>
                 </button>
             </div>
-            <div class="col-md-4">
+            <div class="col-3">
                 <div class="title-action">
                     <a class="btn btn-primary" onclick="RedirectStockCreate()">
                         <i class="fa fa-plus"></i> Insert
@@ -131,7 +131,7 @@
                 </div>
             </div>
         </div>
-        <div class="stockcontent-body"z>
+        <div class="stockcontent-body">
             @foreach (var item in Model)
             {
                 <div class="card-h-100" onclick="Editstock(@item.StId)">
